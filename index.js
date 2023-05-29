@@ -15,7 +15,7 @@ function listFile(dir){
 	return list;
 }
  
-var res = listFile("./docs/");
+var res = listFile("./project1/docs/");
 res = res.filter(item => item.includes('.md')).map(item => item.split('/'))
 
 function generateFileTree(arr) {
@@ -38,7 +38,7 @@ function generateFileTree(arr) {
       current = folderObj;
     });
     // 创建一个新的文件对象，并添加到当前文件夹对象的items数组中
-    const fileObj = { name: path[path.length - 1], href: path[path.length - 1], type: 'markdown' };
+    const fileObj = { name: path[path.length - 1], href: path.join('/'), type: 'markdown' };
     current.items.push(fileObj);
   });
   // 返回文件树对象

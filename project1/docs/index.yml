@@ -1,0 +1,5 @@
+# index.yml定义首页，如果index.yml不存在，就返回index.md的内容
+items:
+  - name: index.md
+    href: project1/docs/index.md
+    type: markdown
