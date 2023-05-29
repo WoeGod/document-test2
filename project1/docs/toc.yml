@@ -1,2210 +1,1773 @@
 items:
-- name: '0.2'
-  items:
-    - name: README.md
-      items:
-        - name: README.md
-          href: project1/docs/0.2/README.md
-          type: markdown
-    - name: SUMMARY.md
-      items:
-        - name: SUMMARY.md
-          href: project1/docs/0.2/SUMMARY.md
-          type: markdown
-    - name: acknowledgement.md
-      items:
-        - name: acknowledgement.md
-          href: project1/docs/0.2/acknowledgement.md
-          type: markdown
-    - name: notes
-      items:
-        - name: autograd.md
-          items:
-            - name: autograd.md
-              href: project1/docs/0.2/notes/autograd.md
-              type: markdown
-        - name: cuda.md
-          items:
-            - name: cuda.md
-              href: project1/docs/0.2/notes/cuda.md
-              type: markdown
-        - name: extending.md
-          items:
-            - name: extending.md
-              href: project1/docs/0.2/notes/extending.md
-              type: markdown
-        - name: multiprocessing.md
-          items:
-            - name: multiprocessing.md
-              href: project1/docs/0.2/notes/multiprocessing.md
-              type: markdown
-        - name: serialization.md
-          items:
-            - name: serialization.md
-              href: project1/docs/0.2/notes/serialization.md
-              type: markdown
-    - name: package_references
-      items:
-        - name: Storage.md
-          items:
-            - name: Storage.md
-              href: project1/docs/0.2/package_references/Storage.md
-              type: markdown
-        - name: Tensor.md
-          items:
-            - name: Tensor.md
-              href: project1/docs/0.2/package_references/Tensor.md
-              type: markdown
-        - name: data.md
-          items:
-            - name: data.md
-              href: project1/docs/0.2/package_references/data.md
-              type: markdown
-        - name: ffi.md
-          items:
-            - name: ffi.md
-              href: project1/docs/0.2/package_references/ffi.md
-              type: markdown
-        - name: functional.md
-          items:
-            - name: functional.md
-              href: project1/docs/0.2/package_references/functional.md
-              type: markdown
-        - name: legacy.md
-          items:
-            - name: legacy.md
-              href: project1/docs/0.2/package_references/legacy.md
-              type: markdown
-        - name: model_zoo.md
-          items:
-            - name: model_zoo.md
-              href: project1/docs/0.2/package_references/model_zoo.md
-              type: markdown
-        - name: nn_init.md
-          items:
-            - name: nn_init.md
-              href: project1/docs/0.2/package_references/nn_init.md
-              type: markdown
-        - name: torch-autograd.md
-          items:
-            - name: torch-autograd.md
-              href: project1/docs/0.2/package_references/torch-autograd.md
-              type: markdown
-        - name: torch-cuda.md
-          items:
-            - name: torch-cuda.md
-              href: project1/docs/0.2/package_references/torch-cuda.md
-              type: markdown
-        - name: torch-multiprocessing.md
-          items:
-            - name: torch-multiprocessing.md
-              href: >-
-                project1/docs/0.2/package_references/torch-multiprocessing.md
-              type: markdown
-        - name: torch-nn.md
-          items:
-            - name: torch-nn.md
-              href: project1/docs/0.2/package_references/torch-nn.md
-              type: markdown
-        - name: torch-optim.md
-          items:
-            - name: torch-optim.md
-              href: project1/docs/0.2/package_references/torch-optim.md
-              type: markdown
-        - name: torch.md
-          items:
-            - name: torch.md
-              href: project1/docs/0.2/package_references/torch.md
-              type: markdown
-    - name: torchvision
-      items:
-        - name: torchvision-datasets.md
-          items:
-            - name: torchvision-datasets.md
-              href: project1/docs/0.2/torchvision/torchvision-datasets.md
-              type: markdown
-        - name: torchvision-models.md
-          items:
-            - name: torchvision-models.md
-              href: project1/docs/0.2/torchvision/torchvision-models.md
-              type: markdown
-        - name: torchvision-transform.md
-          items:
-            - name: torchvision-transform.md
-              href: project1/docs/0.2/torchvision/torchvision-transform.md
-              type: markdown
-        - name: torchvision-utils.md
-          items:
-            - name: torchvision-utils.md
-              href: project1/docs/0.2/torchvision/torchvision-utils.md
-              type: markdown
-        - name: torchvision.md
-          items:
-            - name: torchvision.md
-              href: project1/docs/0.2/torchvision/torchvision.md
-              type: markdown
-- name: '0.3'
-  items:
-    - name: README.md
-      items:
-        - name: README.md
-          href: project1/docs/0.3/README.md
-          type: markdown
-    - name: SUMMARY.md
-      items:
-        - name: SUMMARY.md
-          href: project1/docs/0.3/SUMMARY.md
-          type: markdown
-    - name: advanced_tutorials.md
-      items:
-        - name: advanced_tutorials.md
-          href: project1/docs/0.3/advanced_tutorials.md
-          type: markdown
-    - name: autograd.md
-      items:
-        - name: autograd.md
-          href: project1/docs/0.3/autograd.md
-          type: markdown
-    - name: beginner_tutorials.md
-      items:
-        - name: beginner_tutorials.md
-          href: project1/docs/0.3/beginner_tutorials.md
-          type: markdown
-    - name: blitz_autograd_tutorial.md
-      items:
-        - name: blitz_autograd_tutorial.md
-          href: project1/docs/0.3/blitz_autograd_tutorial.md
-          type: markdown
-    - name: blitz_cifar10_tutorial.md
-      items:
-        - name: blitz_cifar10_tutorial.md
-          href: project1/docs/0.3/blitz_cifar10_tutorial.md
-          type: markdown
-    - name: blitz_data_parallel_tutorial.md
-      items:
-        - name: blitz_data_parallel_tutorial.md
-          href: project1/docs/0.3/blitz_data_parallel_tutorial.md
-          type: markdown
-    - name: blitz_neural_networks_tutorial.md
-      items:
-        - name: blitz_neural_networks_tutorial.md
-          href: project1/docs/0.3/blitz_neural_networks_tutorial.md
-          type: markdown
-    - name: blitz_tensor_tutorial.md
-      items:
-        - name: blitz_tensor_tutorial.md
-          href: project1/docs/0.3/blitz_tensor_tutorial.md
-          type: markdown
-    - name: c_extension.md
-      items:
-        - name: c_extension.md
-          href: project1/docs/0.3/c_extension.md
-          type: markdown
-    - name: char_rnn_classification_tutorial.md
-      items:
-        - name: char_rnn_classification_tutorial.md
-          href: project1/docs/0.3/char_rnn_classification_tutorial.md
-          type: markdown
-    - name: char_rnn_generation_tutorial.md
-      items:
-        - name: char_rnn_generation_tutorial.md
-          href: project1/docs/0.3/char_rnn_generation_tutorial.md
-          type: markdown
-    - name: cuda.md
-      items:
-        - name: cuda.md
-          href: project1/docs/0.3/cuda.md
-          type: markdown
-    - name: data.md
-      items:
-        - name: data.md
-          href: project1/docs/0.3/data.md
-          type: markdown
-    - name: data_loading_tutorial.md
-      items:
-        - name: data_loading_tutorial.md
-          href: project1/docs/0.3/data_loading_tutorial.md
-          type: markdown
-    - name: datasets.md
-      items:
-        - name: datasets.md
-          href: project1/docs/0.3/datasets.md
-          type: markdown
-    - name: deep_learning_60min_blitz.md
-      items:
-        - name: deep_learning_60min_blitz.md
-          href: project1/docs/0.3/deep_learning_60min_blitz.md
-          type: markdown
-    - name: deep_learning_nlp_tutorial.md
-      items:
-        - name: deep_learning_nlp_tutorial.md
-          href: project1/docs/0.3/deep_learning_nlp_tutorial.md
-          type: markdown
-    - name: dist_tuto.md
-      items:
-        - name: dist_tuto.md
-          href: project1/docs/0.3/dist_tuto.md
-          type: markdown
-    - name: distributed.md
-      items:
-        - name: distributed.md
-          href: project1/docs/0.3/distributed.md
-          type: markdown
-    - name: distributions.md
-      items:
-        - name: distributions.md
-          href: project1/docs/0.3/distributions.md
-          type: markdown
-    - name: doc.md
-      items:
-        - name: doc.md
-          href: project1/docs/0.3/doc.md
-          type: markdown
-    - name: ffi.md
-      items:
-        - name: ffi.md
-          href: project1/docs/0.3/ffi.md
-          type: markdown
-    - name: former_torchies_autograd_tutorial.md
-      items:
-        - name: former_torchies_autograd_tutorial.md
-          href: project1/docs/0.3/former_torchies_autograd_tutorial.md
-          type: markdown
-    - name: former_torchies_nn_tutorial.md
-      items:
-        - name: former_torchies_nn_tutorial.md
-          href: project1/docs/0.3/former_torchies_nn_tutorial.md
-          type: markdown
-    - name: former_torchies_parallelism_tutorial.md
-      items:
-        - name: former_torchies_parallelism_tutorial.md
-          href: project1/docs/0.3/former_torchies_parallelism_tutorial.md
-          type: markdown
-    - name: former_torchies_tensor_tutorial.md
-      items:
-        - name: former_torchies_tensor_tutorial.md
-          href: project1/docs/0.3/former_torchies_tensor_tutorial.md
-          type: markdown
-    - name: former_torchies_tutorial.md
-      items:
-        - name: former_torchies_tutorial.md
-          href: project1/docs/0.3/former_torchies_tutorial.md
-          type: markdown
-    - name: intermediate_tutorials.md
-      items:
-        - name: intermediate_tutorials.md
-          href: project1/docs/0.3/intermediate_tutorials.md
-          type: markdown
-    - name: legacy.md
-      items:
-        - name: legacy.md
-          href: project1/docs/0.3/legacy.md
-          type: markdown
-    - name: model_zoo.md
-      items:
-        - name: model_zoo.md
-          href: project1/docs/0.3/model_zoo.md
-          type: markdown
-    - name: models.md
-      items:
-        - name: models.md
-          href: project1/docs/0.3/models.md
-          type: markdown
-    - name: multiprocessing.md
-      items:
-        - name: multiprocessing.md
-          href: project1/docs/0.3/multiprocessing.md
-          type: markdown
-    - name: neural_style_tutorial.md
-      items:
-        - name: neural_style_tutorial.md
-          href: project1/docs/0.3/neural_style_tutorial.md
-          type: markdown
-    - name: nlp_advanced_tutorial.md
-      items:
-        - name: nlp_advanced_tutorial.md
-          href: project1/docs/0.3/nlp_advanced_tutorial.md
-          type: markdown
-    - name: nlp_deep_learning_tutorial.md
-      items:
-        - name: nlp_deep_learning_tutorial.md
-          href: project1/docs/0.3/nlp_deep_learning_tutorial.md
-          type: markdown
-    - name: nlp_pytorch_tutorial.md
-      items:
-        - name: nlp_pytorch_tutorial.md
-          href: project1/docs/0.3/nlp_pytorch_tutorial.md
-          type: markdown
-    - name: nlp_sequence_models_tutorial.md
-      items:
-        - name: nlp_sequence_models_tutorial.md
-          href: project1/docs/0.3/nlp_sequence_models_tutorial.md
-          type: markdown
-    - name: nlp_word_embeddings_tutorial.md
-      items:
-        - name: nlp_word_embeddings_tutorial.md
-          href: project1/docs/0.3/nlp_word_embeddings_tutorial.md
-          type: markdown
-    - name: nn.md
-      items:
-        - name: nn.md
-          href: project1/docs/0.3/nn.md
-          type: markdown
-    - name: notes.md
-      items:
-        - name: notes.md
-          href: project1/docs/0.3/notes.md
-          type: markdown
-    - name: notes_autograd.md
-      items:
-        - name: notes_autograd.md
-          href: project1/docs/0.3/notes_autograd.md
-          type: markdown
-    - name: notes_broadcasting.md
-      items:
-        - name: notes_broadcasting.md
-          href: project1/docs/0.3/notes_broadcasting.md
-          type: markdown
-    - name: notes_cuda.md
-      items:
-        - name: notes_cuda.md
-          href: project1/docs/0.3/notes_cuda.md
-          type: markdown
-    - name: notes_extending.md
-      items:
-        - name: notes_extending.md
-          href: project1/docs/0.3/notes_extending.md
-          type: markdown
-    - name: notes_multiprocessing.md
-      items:
-        - name: notes_multiprocessing.md
-          href: project1/docs/0.3/notes_multiprocessing.md
-          type: markdown
-    - name: notes_serialization.md
-      items:
-        - name: notes_serialization.md
-          href: project1/docs/0.3/notes_serialization.md
-          type: markdown
-    - name: numpy_extensions_tutorial.md
-      items:
-        - name: numpy_extensions_tutorial.md
-          href: project1/docs/0.3/numpy_extensions_tutorial.md
-          type: markdown
-    - name: onnx.md
-      items:
-        - name: onnx.md
-          href: project1/docs/0.3/onnx.md
-          type: markdown
-    - name: optim.md
-      items:
-        - name: optim.md
-          href: project1/docs/0.3/optim.md
-          type: markdown
-    - name: package_reference.md
-      items:
-        - name: package_reference.md
-          href: project1/docs/0.3/package_reference.md
-          type: markdown
-    - name: pytorch_with_examples.md
-      items:
-        - name: pytorch_with_examples.md
-          href: project1/docs/0.3/pytorch_with_examples.md
-          type: markdown
-    - name: pytorch_with_examples_pytorch-control-flow-weight-sharing.md
-      items:
-        - name: >-
-            pytorch_with_examples_pytorch-control-flow-weight-sharing.md
-          href: >-
-            project1/docs/0.3/pytorch_with_examples_pytorch-control-flow-weight-sharing.md
-          type: markdown
-    - name: pytorch_with_examples_pytorch-custom-nn-modules.md
-      items:
-        - name: pytorch_with_examples_pytorch-custom-nn-modules.md
-          href: >-
-            project1/docs/0.3/pytorch_with_examples_pytorch-custom-nn-modules.md
-          type: markdown
-    - name: >-
-        pytorch_with_examples_pytorch-defining-new-autograd-functions.md
-      items:
-        - name: >-
-            pytorch_with_examples_pytorch-defining-new-autograd-functions.md
-          href: >-
-            project1/docs/0.3/pytorch_with_examples_pytorch-defining-new-autograd-functions.md
-          type: markdown
-    - name: pytorch_with_examples_pytorch-nn.md
-      items:
-        - name: pytorch_with_examples_pytorch-nn.md
-          href: project1/docs/0.3/pytorch_with_examples_pytorch-nn.md
-          type: markdown
-    - name: pytorch_with_examples_pytorch-optim.md
-      items:
-        - name: pytorch_with_examples_pytorch-optim.md
-          href: project1/docs/0.3/pytorch_with_examples_pytorch-optim.md
-          type: markdown
-    - name: pytorch_with_examples_pytorch-tensors.md
-      items:
-        - name: pytorch_with_examples_pytorch-tensors.md
-          href: project1/docs/0.3/pytorch_with_examples_pytorch-tensors.md
-          type: markdown
-    - name: pytorch_with_examples_pytorch-variables-and-autograd.md
-      items:
-        - name: pytorch_with_examples_pytorch-variables-and-autograd.md
-          href: >-
-            project1/docs/0.3/pytorch_with_examples_pytorch-variables-and-autograd.md
-          type: markdown
-    - name: pytorch_with_examples_tensorflow-static-graphs.md
-      items:
-        - name: pytorch_with_examples_tensorflow-static-graphs.md
-          href: >-
-            project1/docs/0.3/pytorch_with_examples_tensorflow-static-graphs.md
-          type: markdown
-    - name: pytorch_with_examples_warm-up-numpy.md
-      items:
-        - name: pytorch_with_examples_warm-up-numpy.md
-          href: project1/docs/0.3/pytorch_with_examples_warm-up-numpy.md
-          type: markdown
-    - name: reinforcement_q_learning.md
-      items:
-        - name: reinforcement_q_learning.md
-          href: project1/docs/0.3/reinforcement_q_learning.md
-          type: markdown
-    - name: seq2seq_translation_tutorial.md
-      items:
-        - name: seq2seq_translation_tutorial.md
-          href: project1/docs/0.3/seq2seq_translation_tutorial.md
-          type: markdown
-    - name: sparse.md
-      items:
-        - name: sparse.md
-          href: project1/docs/0.3/sparse.md
-          type: markdown
-    - name: spatial_transformer_tutorial.md
-      items:
-        - name: spatial_transformer_tutorial.md
-          href: project1/docs/0.3/spatial_transformer_tutorial.md
-          type: markdown
-    - name: storage.md
-      items:
-        - name: storage.md
-          href: project1/docs/0.3/storage.md
-          type: markdown
-    - name: super_resolution_with_caffe2.md
-      items:
-        - name: super_resolution_with_caffe2.md
-          href: project1/docs/0.3/super_resolution_with_caffe2.md
-          type: markdown
-    - name: tensors.md
-      items:
-        - name: tensors.md
-          href: project1/docs/0.3/tensors.md
-          type: markdown
-    - name: torch.md
-      items:
-        - name: torch.md
-          href: project1/docs/0.3/torch.md
-          type: markdown
-    - name: torchvision.md
-      items:
-        - name: torchvision.md
-          href: project1/docs/0.3/torchvision.md
-          type: markdown
-    - name: torchvision_reference.md
-      items:
-        - name: torchvision_reference.md
-          href: project1/docs/0.3/torchvision_reference.md
-          type: markdown
-    - name: transfer_learning_tutorial.md
-      items:
-        - name: transfer_learning_tutorial.md
-          href: project1/docs/0.3/transfer_learning_tutorial.md
-          type: markdown
-    - name: transforms.md
-      items:
-        - name: transforms.md
-          href: project1/docs/0.3/transforms.md
-          type: markdown
-    - name: tut.md
-      items:
-        - name: tut.md
-          href: project1/docs/0.3/tut.md
-          type: markdown
-    - name: utils.md
-      items:
-        - name: utils.md
-          href: project1/docs/0.3/utils.md
-          type: markdown
-- name: '0.4'
-  items:
-    - name: 0.md
-      items:
-        - name: 0.md
-          href: project1/docs/0.4/0.md
-          type: markdown
-    - name: 1.md
-      items:
-        - name: 1.md
-          href: project1/docs/0.4/1.md
-          type: markdown
-    - name: 10.md
-      items:
-        - name: 10.md
-          href: project1/docs/0.4/10.md
-          type: markdown
-    - name: 11.md
-      items:
-        - name: 11.md
-          href: project1/docs/0.4/11.md
-          type: markdown
-    - name: 12.md
-      items:
-        - name: 12.md
-          href: project1/docs/0.4/12.md
-          type: markdown
-    - name: 13.md
-      items:
-        - name: 13.md
-          href: project1/docs/0.4/13.md
-          type: markdown
-    - name: 14.md
-      items:
-        - name: 14.md
-          href: project1/docs/0.4/14.md
-          type: markdown
-    - name: 15.md
-      items:
-        - name: 15.md
-          href: project1/docs/0.4/15.md
-          type: markdown
-    - name: 16.md
-      items:
-        - name: 16.md
-          href: project1/docs/0.4/16.md
-          type: markdown
-    - name: 17.md
-      items:
-        - name: 17.md
-          href: project1/docs/0.4/17.md
-          type: markdown
-    - name: 18.md
-      items:
-        - name: 18.md
-          href: project1/docs/0.4/18.md
-          type: markdown
-    - name: 19.md
-      items:
-        - name: 19.md
-          href: project1/docs/0.4/19.md
-          type: markdown
-    - name: 2.md
-      items:
-        - name: 2.md
-          href: project1/docs/0.4/2.md
-          type: markdown
-    - name: 20.md
-      items:
-        - name: 20.md
-          href: project1/docs/0.4/20.md
-          type: markdown
-    - name: 21.md
-      items:
-        - name: 21.md
-          href: project1/docs/0.4/21.md
-          type: markdown
-    - name: 22.md
-      items:
-        - name: 22.md
-          href: project1/docs/0.4/22.md
-          type: markdown
-    - name: 23.md
-      items:
-        - name: 23.md
-          href: project1/docs/0.4/23.md
-          type: markdown
-    - name: 24.md
-      items:
-        - name: 24.md
-          href: project1/docs/0.4/24.md
-          type: markdown
-    - name: 25.md
-      items:
-        - name: 25.md
-          href: project1/docs/0.4/25.md
-          type: markdown
-    - name: 26.md
-      items:
-        - name: 26.md
-          href: project1/docs/0.4/26.md
-          type: markdown
-    - name: 27.md
-      items:
-        - name: 27.md
-          href: project1/docs/0.4/27.md
-          type: markdown
-    - name: 28.md
-      items:
-        - name: 28.md
-          href: project1/docs/0.4/28.md
-          type: markdown
-    - name: 29.md
-      items:
-        - name: 29.md
-          href: project1/docs/0.4/29.md
-          type: markdown
-    - name: 3.md
-      items:
-        - name: 3.md
-          href: project1/docs/0.4/3.md
-          type: markdown
-    - name: 30.md
-      items:
-        - name: 30.md
-          href: project1/docs/0.4/30.md
-          type: markdown
-    - name: 31.md
-      items:
-        - name: 31.md
-          href: project1/docs/0.4/31.md
-          type: markdown
-    - name: 32.md
-      items:
-        - name: 32.md
-          href: project1/docs/0.4/32.md
-          type: markdown
-    - name: 33.md
-      items:
-        - name: 33.md
-          href: project1/docs/0.4/33.md
-          type: markdown
-    - name: 34.md
-      items:
-        - name: 34.md
-          href: project1/docs/0.4/34.md
-          type: markdown
-    - name: 35.md
-      items:
-        - name: 35.md
-          href: project1/docs/0.4/35.md
-          type: markdown
-    - name: 36.md
-      items:
-        - name: 36.md
-          href: project1/docs/0.4/36.md
-          type: markdown
-    - name: 37.md
-      items:
-        - name: 37.md
-          href: project1/docs/0.4/37.md
-          type: markdown
-    - name: 4.md
-      items:
-        - name: 4.md
-          href: project1/docs/0.4/4.md
-          type: markdown
-    - name: 5.md
-      items:
-        - name: 5.md
-          href: project1/docs/0.4/5.md
-          type: markdown
-    - name: 6.md
-      items:
-        - name: 6.md
-          href: project1/docs/0.4/6.md
-          type: markdown
-    - name: 7.md
-      items:
-        - name: 7.md
-          href: project1/docs/0.4/7.md
-          type: markdown
-    - name: 8.md
-      items:
-        - name: 8.md
-          href: project1/docs/0.4/8.md
-          type: markdown
-    - name: 9.md
-      items:
-        - name: 9.md
-          href: project1/docs/0.4/9.md
-          type: markdown
-    - name: README.md
-      items:
-        - name: README.md
-          href: project1/docs/0.4/README.md
-          type: markdown
-    - name: SUMMARY.md
-      items:
-        - name: SUMMARY.md
-          href: project1/docs/0.4/SUMMARY.md
-          type: markdown
-- name: '1.0'
-  items:
-    - name: ONNXLive.md
-      items:
-        - name: ONNXLive.md
-          href: project1/docs/1.0/ONNXLive.md
-          type: markdown
-    - name: README.md
-      items:
-        - name: README.md
-          href: project1/docs/1.0/README.md
-          type: markdown
-    - name: SUMMARY.md
-      items:
-        - name: SUMMARY.md
-          href: project1/docs/1.0/SUMMARY.md
-          type: markdown
-    - name: autograd.md
-      items:
-        - name: autograd.md
-          href: project1/docs/1.0/autograd.md
-          type: markdown
-    - name: aws_distributed_training_tutorial.md
-      items:
-        - name: aws_distributed_training_tutorial.md
-          href: project1/docs/1.0/aws_distributed_training_tutorial.md
-          type: markdown
-    - name: blitz_autograd_tutorial.md
-      items:
-        - name: blitz_autograd_tutorial.md
-          href: project1/docs/1.0/blitz_autograd_tutorial.md
-          type: markdown
-    - name: blitz_cifar10_tutorial.md
-      items:
-        - name: blitz_cifar10_tutorial.md
-          href: project1/docs/1.0/blitz_cifar10_tutorial.md
-          type: markdown
-    - name: blitz_data_parallel_tutorial.md
-      items:
-        - name: blitz_data_parallel_tutorial.md
-          href: project1/docs/1.0/blitz_data_parallel_tutorial.md
-          type: markdown
-    - name: blitz_neural_networks_tutorial.md
-      items:
-        - name: blitz_neural_networks_tutorial.md
-          href: project1/docs/1.0/blitz_neural_networks_tutorial.md
-          type: markdown
-    - name: blitz_tensor_tutorial.md
-      items:
-        - name: blitz_tensor_tutorial.md
-          href: project1/docs/1.0/blitz_tensor_tutorial.md
-          type: markdown
-    - name: bottleneck.md
-      items:
-        - name: bottleneck.md
-          href: project1/docs/1.0/bottleneck.md
-          type: markdown
-    - name: char_rnn_classification_tutorial.md
-      items:
-        - name: char_rnn_classification_tutorial.md
-          href: project1/docs/1.0/char_rnn_classification_tutorial.md
-          type: markdown
-    - name: char_rnn_generation_tutorial.md
-      items:
-        - name: char_rnn_generation_tutorial.md
-          href: project1/docs/1.0/char_rnn_generation_tutorial.md
-          type: markdown
-    - name: chatbot_tutorial.md
-      items:
-        - name: chatbot_tutorial.md
-          href: project1/docs/1.0/chatbot_tutorial.md
-          type: markdown
-    - name: checkpoint.md
-      items:
-        - name: checkpoint.md
-          href: project1/docs/1.0/checkpoint.md
-          type: markdown
-    - name: cpp_export.md
-      items:
-        - name: cpp_export.md
-          href: project1/docs/1.0/cpp_export.md
-          type: markdown
-    - name: cpp_extension.md
-      items:
-        - name: cpp_extension.md
-          href: project1/docs/1.0/cpp_extension.md
-          type: markdown
-    - name: cpp_frontend.md
-      items:
-        - name: cpp_frontend.md
-          href: project1/docs/1.0/cpp_frontend.md
-          type: markdown
-    - name: cuda.md
-      items:
-        - name: cuda.md
-          href: project1/docs/1.0/cuda.md
-          type: markdown
-    - name: data.md
-      items:
-        - name: data.md
-          href: project1/docs/1.0/data.md
-          type: markdown
-    - name: data_loading_tutorial.md
-      items:
-        - name: data_loading_tutorial.md
-          href: project1/docs/1.0/data_loading_tutorial.md
-          type: markdown
-    - name: dcgan_faces_tutorial.md
-      items:
-        - name: dcgan_faces_tutorial.md
-          href: project1/docs/1.0/dcgan_faces_tutorial.md
-          type: markdown
-    - name: deep_learning_60min_blitz.md
-      items:
-        - name: deep_learning_60min_blitz.md
-          href: project1/docs/1.0/deep_learning_60min_blitz.md
-          type: markdown
-    - name: deep_learning_nlp_tutorial.md
-      items:
-        - name: deep_learning_nlp_tutorial.md
-          href: project1/docs/1.0/deep_learning_nlp_tutorial.md
-          type: markdown
-    - name: deploy_seq2seq_hybrid_frontend_tutorial.md
-      items:
-        - name: deploy_seq2seq_hybrid_frontend_tutorial.md
-          href: >-
-            project1/docs/1.0/deploy_seq2seq_hybrid_frontend_tutorial.md
-          type: markdown
-    - name: dist_tuto.md
-      items:
-        - name: dist_tuto.md
-          href: project1/docs/1.0/dist_tuto.md
-          type: markdown
-    - name: distributed.md
-      items:
-        - name: distributed.md
-          href: project1/docs/1.0/distributed.md
-          type: markdown
-    - name: distributed_deprecated.md
-      items:
-        - name: distributed_deprecated.md
-          href: project1/docs/1.0/distributed_deprecated.md
-          type: markdown
-    - name: distributions.md
-      items:
-        - name: distributions.md
-          href: project1/docs/1.0/distributions.md
-          type: markdown
-    - name: dlpack.md
-      items:
-        - name: dlpack.md
-          href: project1/docs/1.0/dlpack.md
-          type: markdown
-    - name: docs_cpp_extension.md
-      items:
-        - name: docs_cpp_extension.md
-          href: project1/docs/1.0/docs_cpp_extension.md
-          type: markdown
-    - name: docs_notes.md
-      items:
-        - name: docs_notes.md
-          href: project1/docs/1.0/docs_notes.md
-          type: markdown
-    - name: docs_package_ref.md
-      items:
-        - name: docs_package_ref.md
-          href: project1/docs/1.0/docs_package_ref.md
-          type: markdown
-    - name: docs_torchvision_ref.md
-      items:
-        - name: docs_torchvision_ref.md
-          href: project1/docs/1.0/docs_torchvision_ref.md
-          type: markdown
-    - name: fgsm_tutorial.md
-      items:
-        - name: fgsm_tutorial.md
-          href: project1/docs/1.0/fgsm_tutorial.md
-          type: markdown
-    - name: finetuning_torchvision_models_tutorial.md
-      items:
-        - name: finetuning_torchvision_models_tutorial.md
-          href: >-
-            project1/docs/1.0/finetuning_torchvision_models_tutorial.md
-          type: markdown
-    - name: hub.md
-      items:
-        - name: hub.md
-          href: project1/docs/1.0/hub.md
-          type: markdown
-    - name: jit.md
-      items:
-        - name: jit.md
-          href: project1/docs/1.0/jit.md
-          type: markdown
-    - name: model_zoo.md
-      items:
-        - name: model_zoo.md
-          href: project1/docs/1.0/model_zoo.md
-          type: markdown
-    - name: multiprocessing.md
-      items:
-        - name: multiprocessing.md
-          href: project1/docs/1.0/multiprocessing.md
-          type: markdown
-    - name: neural_style_tutorial.md
-      items:
-        - name: neural_style_tutorial.md
-          href: project1/docs/1.0/neural_style_tutorial.md
-          type: markdown
-    - name: nlp_advanced_tutorial.md
-      items:
-        - name: nlp_advanced_tutorial.md
-          href: project1/docs/1.0/nlp_advanced_tutorial.md
-          type: markdown
-    - name: nlp_deep_learning_tutorial.md
-      items:
-        - name: nlp_deep_learning_tutorial.md
-          href: project1/docs/1.0/nlp_deep_learning_tutorial.md
-          type: markdown
-    - name: nlp_pytorch_tutorial.md
-      items:
-        - name: nlp_pytorch_tutorial.md
-          href: project1/docs/1.0/nlp_pytorch_tutorial.md
-          type: markdown
-    - name: nlp_sequence_models_tutorial.md
-      items:
-        - name: nlp_sequence_models_tutorial.md
-          href: project1/docs/1.0/nlp_sequence_models_tutorial.md
-          type: markdown
-    - name: nlp_word_embeddings_tutorial.md
-      items:
-        - name: nlp_word_embeddings_tutorial.md
-          href: project1/docs/1.0/nlp_word_embeddings_tutorial.md
-          type: markdown
-    - name: nn.md
-      items:
-        - name: nn.md
-          href: project1/docs/1.0/nn.md
-          type: markdown
-    - name: nn_functional.md
-      items:
-        - name: nn_functional.md
-          href: project1/docs/1.0/nn_functional.md
-          type: markdown
-    - name: nn_init.md
-      items:
-        - name: nn_init.md
-          href: project1/docs/1.0/nn_init.md
-          type: markdown
-    - name: nn_tutorial.md
-      items:
-        - name: nn_tutorial.md
-          href: project1/docs/1.0/nn_tutorial.md
-          type: markdown
-    - name: notes_autograd.md
-      items:
-        - name: notes_autograd.md
-          href: project1/docs/1.0/notes_autograd.md
-          type: markdown
-    - name: notes_broadcasting.md
-      items:
-        - name: notes_broadcasting.md
-          href: project1/docs/1.0/notes_broadcasting.md
-          type: markdown
-    - name: notes_cuda.md
-      items:
-        - name: notes_cuda.md
-          href: project1/docs/1.0/notes_cuda.md
-          type: markdown
-    - name: notes_extending.md
-      items:
-        - name: notes_extending.md
-          href: project1/docs/1.0/notes_extending.md
-          type: markdown
-    - name: notes_faq.md
-      items:
-        - name: notes_faq.md
-          href: project1/docs/1.0/notes_faq.md
-          type: markdown
-    - name: notes_multiprocessing.md
-      items:
-        - name: notes_multiprocessing.md
-          href: project1/docs/1.0/notes_multiprocessing.md
-          type: markdown
-    - name: notes_randomness.md
-      items:
-        - name: notes_randomness.md
-          href: project1/docs/1.0/notes_randomness.md
-          type: markdown
-    - name: notes_serialization.md
-      items:
-        - name: notes_serialization.md
-          href: project1/docs/1.0/notes_serialization.md
-          type: markdown
-    - name: notes_windows.md
-      items:
-        - name: notes_windows.md
-          href: project1/docs/1.0/notes_windows.md
-          type: markdown
-    - name: numpy_extensions_tutorial.md
-      items:
-        - name: numpy_extensions_tutorial.md
-          href: project1/docs/1.0/numpy_extensions_tutorial.md
-          type: markdown
-    - name: onnx.md
-      items:
-        - name: onnx.md
-          href: project1/docs/1.0/onnx.md
-          type: markdown
-    - name: optim.md
-      items:
-        - name: optim.md
-          href: project1/docs/1.0/optim.md
-          type: markdown
-    - name: pytorch_with_examples.md
-      items:
-        - name: pytorch_with_examples.md
-          href: project1/docs/1.0/pytorch_with_examples.md
-          type: markdown
-    - name: reinforcement_q_learning.md
-      items:
-        - name: reinforcement_q_learning.md
-          href: project1/docs/1.0/reinforcement_q_learning.md
-          type: markdown
-    - name: saving_loading_models.md
-      items:
-        - name: saving_loading_models.md
-          href: project1/docs/1.0/saving_loading_models.md
-          type: markdown
-    - name: seq2seq_translation_tutorial.md
-      items:
-        - name: seq2seq_translation_tutorial.md
-          href: project1/docs/1.0/seq2seq_translation_tutorial.md
-          type: markdown
-    - name: sparse.md
-      items:
-        - name: sparse.md
-          href: project1/docs/1.0/sparse.md
-          type: markdown
-    - name: spatial_transformer_tutorial.md
-      items:
-        - name: spatial_transformer_tutorial.md
-          href: project1/docs/1.0/spatial_transformer_tutorial.md
-          type: markdown
-    - name: storage.md
-      items:
-        - name: storage.md
-          href: project1/docs/1.0/storage.md
-          type: markdown
-    - name: super_resolution_with_caffe2.md
-      items:
-        - name: super_resolution_with_caffe2.md
-          href: project1/docs/1.0/super_resolution_with_caffe2.md
-          type: markdown
-    - name: tensor_attributes.md
-      items:
-        - name: tensor_attributes.md
-          href: project1/docs/1.0/tensor_attributes.md
-          type: markdown
-    - name: tensors.md
-      items:
-        - name: tensors.md
-          href: project1/docs/1.0/tensors.md
-          type: markdown
-    - name: torch.md
-      items:
-        - name: torch.md
-          href: project1/docs/1.0/torch.md
-          type: markdown
-    - name: torch_math_operations.md
-      items:
-        - name: torch_math_operations.md
-          href: project1/docs/1.0/torch_math_operations.md
-          type: markdown
-    - name: torch_math_operations_blas_lapack_ops.md
-      items:
-        - name: torch_math_operations_blas_lapack_ops.md
-          href: project1/docs/1.0/torch_math_operations_blas_lapack_ops.md
-          type: markdown
-    - name: torch_math_operations_comparison_ops.md
-      items:
-        - name: torch_math_operations_comparison_ops.md
-          href: project1/docs/1.0/torch_math_operations_comparison_ops.md
-          type: markdown
-    - name: torch_math_operations_other_ops.md
-      items:
-        - name: torch_math_operations_other_ops.md
-          href: project1/docs/1.0/torch_math_operations_other_ops.md
-          type: markdown
-    - name: torch_math_operations_pointwise_ops.md
-      items:
-        - name: torch_math_operations_pointwise_ops.md
-          href: project1/docs/1.0/torch_math_operations_pointwise_ops.md
-          type: markdown
-    - name: torch_math_operations_reduction_ops.md
-      items:
-        - name: torch_math_operations_reduction_ops.md
-          href: project1/docs/1.0/torch_math_operations_reduction_ops.md
-          type: markdown
-    - name: torch_math_operations_spectral_ops.md
-      items:
-        - name: torch_math_operations_spectral_ops.md
-          href: project1/docs/1.0/torch_math_operations_spectral_ops.md
-          type: markdown
-    - name: torch_random_sampling.md
-      items:
-        - name: torch_random_sampling.md
-          href: project1/docs/1.0/torch_random_sampling.md
-          type: markdown
-    - name: torch_script_custom_ops.md
-      items:
-        - name: torch_script_custom_ops.md
-          href: project1/docs/1.0/torch_script_custom_ops.md
-          type: markdown
-    - name: torch_serialization_parallelism_utilities.md
-      items:
-        - name: torch_serialization_parallelism_utilities.md
-          href: >-
-            project1/docs/1.0/torch_serialization_parallelism_utilities.md
-          type: markdown
-    - name: torch_tensors.md
-      items:
-        - name: torch_tensors.md
-          href: project1/docs/1.0/torch_tensors.md
-          type: markdown
-    - name: torchvision_datasets.md
-      items:
-        - name: torchvision_datasets.md
-          href: project1/docs/1.0/torchvision_datasets.md
-          type: markdown
-    - name: torchvision_models.md
-      items:
-        - name: torchvision_models.md
-          href: project1/docs/1.0/torchvision_models.md
-          type: markdown
-    - name: torchvision_transforms.md
-      items:
-        - name: torchvision_transforms.md
-          href: project1/docs/1.0/torchvision_transforms.md
-          type: markdown
-    - name: torchvision_utils.md
-      items:
-        - name: torchvision_utils.md
-          href: project1/docs/1.0/torchvision_utils.md
-          type: markdown
-    - name: transfer_learning_tutorial.md
-      items:
-        - name: transfer_learning_tutorial.md
-          href: project1/docs/1.0/transfer_learning_tutorial.md
-          type: markdown
-    - name: tut_extending_pytorch.md
-      items:
-        - name: tut_extending_pytorch.md
-          href: project1/docs/1.0/tut_extending_pytorch.md
-          type: markdown
-    - name: tut_generative.md
-      items:
-        - name: tut_generative.md
-          href: project1/docs/1.0/tut_generative.md
-          type: markdown
-    - name: tut_getting_started.md
-      items:
-        - name: tut_getting_started.md
-          href: project1/docs/1.0/tut_getting_started.md
-          type: markdown
-    - name: tut_image.md
-      items:
-        - name: tut_image.md
-          href: project1/docs/1.0/tut_image.md
-          type: markdown
-    - name: tut_other_language.md
-      items:
-        - name: tut_other_language.md
-          href: project1/docs/1.0/tut_other_language.md
-          type: markdown
-    - name: tut_production_usage.md
-      items:
-        - name: tut_production_usage.md
-          href: project1/docs/1.0/tut_production_usage.md
-          type: markdown
-    - name: tut_reinforcement_learning.md
-      items:
-        - name: tut_reinforcement_learning.md
-          href: project1/docs/1.0/tut_reinforcement_learning.md
-          type: markdown
-    - name: tut_text.md
-      items:
-        - name: tut_text.md
-          href: project1/docs/1.0/tut_text.md
-          type: markdown
-    - name: type_info.md
-      items:
-        - name: type_info.md
-          href: project1/docs/1.0/type_info.md
-          type: markdown
-- name: '1.4'
-  items:
-    - name: 10.md
-      items:
-        - name: 10.md
-          href: project1/docs/1.4/10.md
-          type: markdown
-    - name: 100.md
-      items:
-        - name: 100.md
-          href: project1/docs/1.4/100.md
-          type: markdown
-    - name: 101.md
-      items:
-        - name: 101.md
-          href: project1/docs/1.4/101.md
-          type: markdown
-    - name: 102.md
-      items:
-        - name: 102.md
-          href: project1/docs/1.4/102.md
-          type: markdown
-    - name: 103.md
-      items:
-        - name: 103.md
-          href: project1/docs/1.4/103.md
-          type: markdown
-    - name: 104.md
-      items:
-        - name: 104.md
-          href: project1/docs/1.4/104.md
-          type: markdown
-    - name: 105.md
-      items:
-        - name: 105.md
-          href: project1/docs/1.4/105.md
-          type: markdown
-    - name: 106.md
-      items:
-        - name: 106.md
-          href: project1/docs/1.4/106.md
-          type: markdown
-    - name: 107.md
-      items:
-        - name: 107.md
-          href: project1/docs/1.4/107.md
-          type: markdown
-    - name: 108.md
-      items:
-        - name: 108.md
-          href: project1/docs/1.4/108.md
-          type: markdown
-    - name: 109.md
-      items:
-        - name: 109.md
-          href: project1/docs/1.4/109.md
-          type: markdown
-    - name: 11.md
-      items:
-        - name: 11.md
-          href: project1/docs/1.4/11.md
-          type: markdown
-    - name: 110.md
-      items:
-        - name: 110.md
-          href: project1/docs/1.4/110.md
-          type: markdown
-    - name: 111.md
-      items:
-        - name: 111.md
-          href: project1/docs/1.4/111.md
-          type: markdown
-    - name: 112.md
-      items:
-        - name: 112.md
-          href: project1/docs/1.4/112.md
-          type: markdown
-    - name: 113.md
-      items:
-        - name: 113.md
-          href: project1/docs/1.4/113.md
-          type: markdown
-    - name: 12.md
-      items:
-        - name: 12.md
-          href: project1/docs/1.4/12.md
-          type: markdown
-    - name: 13.md
-      items:
-        - name: 13.md
-          href: project1/docs/1.4/13.md
-          type: markdown
-    - name: 14.md
-      items:
-        - name: 14.md
-          href: project1/docs/1.4/14.md
-          type: markdown
-    - name: 15.md
-      items:
-        - name: 15.md
-          href: project1/docs/1.4/15.md
-          type: markdown
-    - name: 16.md
-      items:
-        - name: 16.md
-          href: project1/docs/1.4/16.md
-          type: markdown
-    - name: 17.md
-      items:
-        - name: 17.md
-          href: project1/docs/1.4/17.md
-          type: markdown
-    - name: 18.md
-      items:
-        - name: 18.md
-          href: project1/docs/1.4/18.md
-          type: markdown
-    - name: 19.md
-      items:
-        - name: 19.md
-          href: project1/docs/1.4/19.md
-          type: markdown
-    - name: 20.md
-      items:
-        - name: 20.md
-          href: project1/docs/1.4/20.md
-          type: markdown
-    - name: 21.md
-      items:
-        - name: 21.md
-          href: project1/docs/1.4/21.md
-          type: markdown
-    - name: 22.md
-      items:
-        - name: 22.md
-          href: project1/docs/1.4/22.md
-          type: markdown
-    - name: 23.md
-      items:
-        - name: 23.md
-          href: project1/docs/1.4/23.md
-          type: markdown
-    - name: 24.md
-      items:
-        - name: 24.md
-          href: project1/docs/1.4/24.md
-          type: markdown
-    - name: 25.md
-      items:
-        - name: 25.md
-          href: project1/docs/1.4/25.md
-          type: markdown
-    - name: 26.md
-      items:
-        - name: 26.md
-          href: project1/docs/1.4/26.md
-          type: markdown
-    - name: 27.md
-      items:
-        - name: 27.md
-          href: project1/docs/1.4/27.md
-          type: markdown
-    - name: 28.md
-      items:
-        - name: 28.md
-          href: project1/docs/1.4/28.md
-          type: markdown
-    - name: 29.md
-      items:
-        - name: 29.md
-          href: project1/docs/1.4/29.md
-          type: markdown
-    - name: 3.md
-      items:
-        - name: 3.md
-          href: project1/docs/1.4/3.md
-          type: markdown
-    - name: 30.md
-      items:
-        - name: 30.md
-          href: project1/docs/1.4/30.md
-          type: markdown
-    - name: 31.md
-      items:
-        - name: 31.md
-          href: project1/docs/1.4/31.md
-          type: markdown
-    - name: 32.md
-      items:
-        - name: 32.md
-          href: project1/docs/1.4/32.md
-          type: markdown
-    - name: 33.md
-      items:
-        - name: 33.md
-          href: project1/docs/1.4/33.md
-          type: markdown
-    - name: 34.md
-      items:
-        - name: 34.md
-          href: project1/docs/1.4/34.md
-          type: markdown
-    - name: 35.md
-      items:
-        - name: 35.md
-          href: project1/docs/1.4/35.md
-          type: markdown
-    - name: 36.md
-      items:
-        - name: 36.md
-          href: project1/docs/1.4/36.md
-          type: markdown
-    - name: 37.md
-      items:
-        - name: 37.md
-          href: project1/docs/1.4/37.md
-          type: markdown
-    - name: 38.md
-      items:
-        - name: 38.md
-          href: project1/docs/1.4/38.md
-          type: markdown
-    - name: 39.md
-      items:
-        - name: 39.md
-          href: project1/docs/1.4/39.md
-          type: markdown
-    - name: 4.md
-      items:
-        - name: 4.md
-          href: project1/docs/1.4/4.md
-          type: markdown
-    - name: 40.md
-      items:
-        - name: 40.md
-          href: project1/docs/1.4/40.md
-          type: markdown
-    - name: 41.md
-      items:
-        - name: 41.md
-          href: project1/docs/1.4/41.md
-          type: markdown
-    - name: 42.md
-      items:
-        - name: 42.md
-          href: project1/docs/1.4/42.md
-          type: markdown
-    - name: 43.md
-      items:
-        - name: 43.md
-          href: project1/docs/1.4/43.md
-          type: markdown
-    - name: 44.md
-      items:
-        - name: 44.md
-          href: project1/docs/1.4/44.md
-          type: markdown
-    - name: 45.md
-      items:
-        - name: 45.md
-          href: project1/docs/1.4/45.md
-          type: markdown
-    - name: 46.md
-      items:
-        - name: 46.md
-          href: project1/docs/1.4/46.md
-          type: markdown
-    - name: 47.md
-      items:
-        - name: 47.md
-          href: project1/docs/1.4/47.md
-          type: markdown
-    - name: 48.md
-      items:
-        - name: 48.md
-          href: project1/docs/1.4/48.md
-          type: markdown
-    - name: 49.md
-      items:
-        - name: 49.md
-          href: project1/docs/1.4/49.md
-          type: markdown
-    - name: 5.md
-      items:
-        - name: 5.md
-          href: project1/docs/1.4/5.md
-          type: markdown
-    - name: 50.md
-      items:
-        - name: 50.md
-          href: project1/docs/1.4/50.md
-          type: markdown
-    - name: 51.md
-      items:
-        - name: 51.md
-          href: project1/docs/1.4/51.md
-          type: markdown
-    - name: 52.md
-      items:
-        - name: 52.md
-          href: project1/docs/1.4/52.md
-          type: markdown
-    - name: 53.md
-      items:
-        - name: 53.md
-          href: project1/docs/1.4/53.md
-          type: markdown
-    - name: 54.md
-      items:
-        - name: 54.md
-          href: project1/docs/1.4/54.md
-          type: markdown
-    - name: 55.md
-      items:
-        - name: 55.md
-          href: project1/docs/1.4/55.md
-          type: markdown
-    - name: 56.md
-      items:
-        - name: 56.md
-          href: project1/docs/1.4/56.md
-          type: markdown
-    - name: 57.md
-      items:
-        - name: 57.md
-          href: project1/docs/1.4/57.md
-          type: markdown
-    - name: 58.md
-      items:
-        - name: 58.md
-          href: project1/docs/1.4/58.md
-          type: markdown
-    - name: 59.md
-      items:
-        - name: 59.md
-          href: project1/docs/1.4/59.md
-          type: markdown
-    - name: 6.md
-      items:
-        - name: 6.md
-          href: project1/docs/1.4/6.md
-          type: markdown
-    - name: 60.md
-      items:
-        - name: 60.md
-          href: project1/docs/1.4/60.md
-          type: markdown
-    - name: 61.md
-      items:
-        - name: 61.md
-          href: project1/docs/1.4/61.md
-          type: markdown
-    - name: 62.md
-      items:
-        - name: 62.md
-          href: project1/docs/1.4/62.md
-          type: markdown
-    - name: 63.md
-      items:
-        - name: 63.md
-          href: project1/docs/1.4/63.md
-          type: markdown
-    - name: 64.md
-      items:
-        - name: 64.md
-          href: project1/docs/1.4/64.md
-          type: markdown
-    - name: 65.md
-      items:
-        - name: 65.md
-          href: project1/docs/1.4/65.md
-          type: markdown
-    - name: 66.md
-      items:
-        - name: 66.md
-          href: project1/docs/1.4/66.md
-          type: markdown
-    - name: 67.md
-      items:
-        - name: 67.md
-          href: project1/docs/1.4/67.md
-          type: markdown
-    - name: 68.md
-      items:
-        - name: 68.md
-          href: project1/docs/1.4/68.md
-          type: markdown
-    - name: 69.md
-      items:
-        - name: 69.md
-          href: project1/docs/1.4/69.md
-          type: markdown
-    - name: 7.md
-      items:
-        - name: 7.md
-          href: project1/docs/1.4/7.md
-          type: markdown
-    - name: 70.md
-      items:
-        - name: 70.md
-          href: project1/docs/1.4/70.md
-          type: markdown
-    - name: 71.md
-      items:
-        - name: 71.md
-          href: project1/docs/1.4/71.md
-          type: markdown
-    - name: 72.md
-      items:
-        - name: 72.md
-          href: project1/docs/1.4/72.md
-          type: markdown
-    - name: 73.md
-      items:
-        - name: 73.md
-          href: project1/docs/1.4/73.md
-          type: markdown
-    - name: 74.md
-      items:
-        - name: 74.md
-          href: project1/docs/1.4/74.md
-          type: markdown
-    - name: 75.md
-      items:
-        - name: 75.md
-          href: project1/docs/1.4/75.md
-          type: markdown
-    - name: 76.md
-      items:
-        - name: 76.md
-          href: project1/docs/1.4/76.md
-          type: markdown
-    - name: 77.md
-      items:
-        - name: 77.md
-          href: project1/docs/1.4/77.md
-          type: markdown
-    - name: 78.md
-      items:
-        - name: 78.md
-          href: project1/docs/1.4/78.md
-          type: markdown
-    - name: 79.md
-      items:
-        - name: 79.md
-          href: project1/docs/1.4/79.md
-          type: markdown
-    - name: 8.md
-      items:
-        - name: 8.md
-          href: project1/docs/1.4/8.md
-          type: markdown
-    - name: 80.md
-      items:
-        - name: 80.md
-          href: project1/docs/1.4/80.md
-          type: markdown
-    - name: 81.md
-      items:
-        - name: 81.md
-          href: project1/docs/1.4/81.md
-          type: markdown
-    - name: 82.md
-      items:
-        - name: 82.md
-          href: project1/docs/1.4/82.md
-          type: markdown
-    - name: 83.md
-      items:
-        - name: 83.md
-          href: project1/docs/1.4/83.md
-          type: markdown
-    - name: 84.md
-      items:
-        - name: 84.md
-          href: project1/docs/1.4/84.md
-          type: markdown
-    - name: 85.md
-      items:
-        - name: 85.md
-          href: project1/docs/1.4/85.md
-          type: markdown
-    - name: 86.md
-      items:
-        - name: 86.md
-          href: project1/docs/1.4/86.md
-          type: markdown
-    - name: 87.md
-      items:
-        - name: 87.md
-          href: project1/docs/1.4/87.md
-          type: markdown
-    - name: 88.md
-      items:
-        - name: 88.md
-          href: project1/docs/1.4/88.md
-          type: markdown
-    - name: 89.md
-      items:
-        - name: 89.md
-          href: project1/docs/1.4/89.md
-          type: markdown
-    - name: 9.md
-      items:
-        - name: 9.md
-          href: project1/docs/1.4/9.md
-          type: markdown
-    - name: 90.md
-      items:
-        - name: 90.md
-          href: project1/docs/1.4/90.md
-          type: markdown
-    - name: 91.md
-      items:
-        - name: 91.md
-          href: project1/docs/1.4/91.md
-          type: markdown
-    - name: 92.md
-      items:
-        - name: 92.md
-          href: project1/docs/1.4/92.md
-          type: markdown
-    - name: 93.md
-      items:
-        - name: 93.md
-          href: project1/docs/1.4/93.md
-          type: markdown
-    - name: 94.md
-      items:
-        - name: 94.md
-          href: project1/docs/1.4/94.md
-          type: markdown
-    - name: 95.md
-      items:
-        - name: 95.md
-          href: project1/docs/1.4/95.md
-          type: markdown
-    - name: 96.md
-      items:
-        - name: 96.md
-          href: project1/docs/1.4/96.md
-          type: markdown
-    - name: 97.md
-      items:
-        - name: 97.md
-          href: project1/docs/1.4/97.md
-          type: markdown
-    - name: 98.md
-      items:
-        - name: 98.md
-          href: project1/docs/1.4/98.md
-          type: markdown
-    - name: 99.md
-      items:
-        - name: 99.md
-          href: project1/docs/1.4/99.md
-          type: markdown
-    - name: README.md
-      items:
-        - name: README.md
-          href: project1/docs/1.4/README.md
-          type: markdown
-    - name: SUMMARY.md
-      items:
-        - name: SUMMARY.md
-          href: project1/docs/1.4/SUMMARY.md
-          type: markdown
-    - name: blitz
-      items:
-        - name: autograd_tutorial.md
-          items:
-            - name: autograd_tutorial.md
-              href: project1/docs/1.4/blitz/autograd_tutorial.md
-              type: markdown
-        - name: cifar10_tutorial.md
-          items:
-            - name: cifar10_tutorial.md
-              href: project1/docs/1.4/blitz/cifar10_tutorial.md
-              type: markdown
-        - name: data_parallel_tutorial.md
-          items:
-            - name: data_parallel_tutorial.md
-              href: project1/docs/1.4/blitz/data_parallel_tutorial.md
-              type: markdown
-        - name: neural_networks_tutorial.md
-          items:
-            - name: neural_networks_tutorial.md
-              href: project1/docs/1.4/blitz/neural_networks_tutorial.md
-              type: markdown
-        - name: tensor_tutorial.md
-          items:
-            - name: tensor_tutorial.md
-              href: project1/docs/1.4/blitz/tensor_tutorial.md
-              type: markdown
-- name: '1.7'
-  items:
-    - name: 01.md
-      items:
-        - name: 01.md
-          href: project1/docs/1.7/01.md
-          type: markdown
-    - name: 02.md
-      items:
-        - name: 02.md
-          href: project1/docs/1.7/02.md
-          type: markdown
-    - name: 03.md
-      items:
-        - name: 03.md
-          href: project1/docs/1.7/03.md
-          type: markdown
-    - name: 04.md
-      items:
-        - name: 04.md
-          href: project1/docs/1.7/04.md
-          type: markdown
-    - name: 05.md
-      items:
-        - name: 05.md
-          href: project1/docs/1.7/05.md
-          type: markdown
-    - name: 06.md
-      items:
-        - name: 06.md
-          href: project1/docs/1.7/06.md
-          type: markdown
-    - name: 07.md
-      items:
-        - name: 07.md
-          href: project1/docs/1.7/07.md
-          type: markdown
-    - name: 08.md
-      items:
-        - name: 08.md
-          href: project1/docs/1.7/08.md
-          type: markdown
-    - name: 09.md
-      items:
-        - name: 09.md
-          href: project1/docs/1.7/09.md
-          type: markdown
-    - name: 10.md
-      items:
-        - name: 10.md
-          href: project1/docs/1.7/10.md
-          type: markdown
-    - name: 11.md
-      items:
-        - name: 11.md
-          href: project1/docs/1.7/11.md
-          type: markdown
-    - name: 12.md
-      items:
-        - name: 12.md
-          href: project1/docs/1.7/12.md
-          type: markdown
-    - name: 13.md
-      items:
-        - name: 13.md
-          href: project1/docs/1.7/13.md
-          type: markdown
-    - name: 14.md
-      items:
-        - name: 14.md
-          href: project1/docs/1.7/14.md
-          type: markdown
-    - name: 15.md
-      items:
-        - name: 15.md
-          href: project1/docs/1.7/15.md
-          type: markdown
-    - name: 16.md
-      items:
-        - name: 16.md
-          href: project1/docs/1.7/16.md
-          type: markdown
-    - name: 17.md
-      items:
-        - name: 17.md
-          href: project1/docs/1.7/17.md
-          type: markdown
-    - name: 18.md
-      items:
-        - name: 18.md
-          href: project1/docs/1.7/18.md
-          type: markdown
-    - name: 19.md
-      items:
-        - name: 19.md
-          href: project1/docs/1.7/19.md
-          type: markdown
-    - name: 20.md
-      items:
-        - name: 20.md
-          href: project1/docs/1.7/20.md
-          type: markdown
-    - name: 21.md
-      items:
-        - name: 21.md
-          href: project1/docs/1.7/21.md
-          type: markdown
-    - name: 22.md
-      items:
-        - name: 22.md
-          href: project1/docs/1.7/22.md
-          type: markdown
-    - name: 23.md
-      items:
-        - name: 23.md
-          href: project1/docs/1.7/23.md
-          type: markdown
-    - name: 24.md
-      items:
-        - name: 24.md
-          href: project1/docs/1.7/24.md
-          type: markdown
-    - name: 25.md
-      items:
-        - name: 25.md
-          href: project1/docs/1.7/25.md
-          type: markdown
-    - name: 26.md
-      items:
-        - name: 26.md
-          href: project1/docs/1.7/26.md
-          type: markdown
-    - name: 27.md
-      items:
-        - name: 27.md
-          href: project1/docs/1.7/27.md
-          type: markdown
-    - name: 28.md
-      items:
-        - name: 28.md
-          href: project1/docs/1.7/28.md
-          type: markdown
-    - name: 29.md
-      items:
-        - name: 29.md
-          href: project1/docs/1.7/29.md
-          type: markdown
-    - name: 30.md
-      items:
-        - name: 30.md
-          href: project1/docs/1.7/30.md
-          type: markdown
-    - name: 31.md
-      items:
-        - name: 31.md
-          href: project1/docs/1.7/31.md
-          type: markdown
-    - name: 32.md
-      items:
-        - name: 32.md
-          href: project1/docs/1.7/32.md
-          type: markdown
-    - name: 33.md
-      items:
-        - name: 33.md
-          href: project1/docs/1.7/33.md
-          type: markdown
-    - name: 34.md
-      items:
-        - name: 34.md
-          href: project1/docs/1.7/34.md
-          type: markdown
-    - name: 35.md
-      items:
-        - name: 35.md
-          href: project1/docs/1.7/35.md
-          type: markdown
-    - name: 36.md
-      items:
-        - name: 36.md
-          href: project1/docs/1.7/36.md
-          type: markdown
-    - name: 37.md
-      items:
-        - name: 37.md
-          href: project1/docs/1.7/37.md
-          type: markdown
-    - name: 38.md
-      items:
-        - name: 38.md
-          href: project1/docs/1.7/38.md
-          type: markdown
-    - name: 39.md
-      items:
-        - name: 39.md
-          href: project1/docs/1.7/39.md
-          type: markdown
-    - name: 40.md
-      items:
-        - name: 40.md
-          href: project1/docs/1.7/40.md
-          type: markdown
-    - name: 41.md
-      items:
-        - name: 41.md
-          href: project1/docs/1.7/41.md
-          type: markdown
-    - name: 42.md
-      items:
-        - name: 42.md
-          href: project1/docs/1.7/42.md
-          type: markdown
-    - name: 43.md
-      items:
-        - name: 43.md
-          href: project1/docs/1.7/43.md
-          type: markdown
-    - name: 44.md
-      items:
-        - name: 44.md
-          href: project1/docs/1.7/44.md
-          type: markdown
-    - name: 45.md
-      items:
-        - name: 45.md
-          href: project1/docs/1.7/45.md
-          type: markdown
-    - name: 46.md
-      items:
-        - name: 46.md
-          href: project1/docs/1.7/46.md
-          type: markdown
-    - name: 47.md
-      items:
-        - name: 47.md
-          href: project1/docs/1.7/47.md
-          type: markdown
-    - name: 48.md
-      items:
-        - name: 48.md
-          href: project1/docs/1.7/48.md
-          type: markdown
-    - name: 49.md
-      items:
-        - name: 49.md
-          href: project1/docs/1.7/49.md
-          type: markdown
-    - name: 50.md
-      items:
-        - name: 50.md
-          href: project1/docs/1.7/50.md
-          type: markdown
-    - name: 51.md
-      items:
-        - name: 51.md
-          href: project1/docs/1.7/51.md
-          type: markdown
-    - name: 52.md
-      items:
-        - name: 52.md
-          href: project1/docs/1.7/52.md
-          type: markdown
-    - name: 53.md
-      items:
-        - name: 53.md
-          href: project1/docs/1.7/53.md
-          type: markdown
-    - name: 54.md
-      items:
-        - name: 54.md
-          href: project1/docs/1.7/54.md
-          type: markdown
-    - name: 55.md
-      items:
-        - name: 55.md
-          href: project1/docs/1.7/55.md
-          type: markdown
-    - name: 56.md
-      items:
-        - name: 56.md
-          href: project1/docs/1.7/56.md
-          type: markdown
-    - name: 57.md
-      items:
-        - name: 57.md
-          href: project1/docs/1.7/57.md
-          type: markdown
-    - name: 58.md
-      items:
-        - name: 58.md
-          href: project1/docs/1.7/58.md
-          type: markdown
-    - name: 59.md
-      items:
-        - name: 59.md
-          href: project1/docs/1.7/59.md
-          type: markdown
-    - name: 60.md
-      items:
-        - name: 60.md
-          href: project1/docs/1.7/60.md
-          type: markdown
-    - name: 61.md
-      items:
-        - name: 61.md
-          href: project1/docs/1.7/61.md
-          type: markdown
-    - name: 62.md
-      items:
-        - name: 62.md
-          href: project1/docs/1.7/62.md
-          type: markdown
-    - name: 63.md
-      items:
-        - name: 63.md
-          href: project1/docs/1.7/63.md
-          type: markdown
-    - name: 64.md
-      items:
-        - name: 64.md
-          href: project1/docs/1.7/64.md
-          type: markdown
-    - name: 65.md
-      items:
-        - name: 65.md
-          href: project1/docs/1.7/65.md
-          type: markdown
-    - name: 66.md
-      items:
-        - name: 66.md
-          href: project1/docs/1.7/66.md
-          type: markdown
-    - name: 67.md
-      items:
-        - name: 67.md
-          href: project1/docs/1.7/67.md
-          type: markdown
-    - name: 68.md
-      items:
-        - name: 68.md
-          href: project1/docs/1.7/68.md
-          type: markdown
-    - name: README.md
-      items:
-        - name: README.md
-          href: project1/docs/1.7/README.md
-          type: markdown
-    - name: SUMMARY.md
-      items:
-        - name: SUMMARY.md
-          href: project1/docs/1.7/SUMMARY.md
-          type: markdown
-- name: LatestChanges
-  items:
-    - name: PyTorch_V1.2.md
-      items:
-        - name: PyTorch_V1.2.md
-          href: project1/docs/LatestChanges/PyTorch_V1.2.md
-          type: markdown
-    - name: PyTorch_V1.3.md
-      items:
-        - name: PyTorch_V1.3.md
-          href: project1/docs/LatestChanges/PyTorch_V1.3.md
-          type: markdown
-    - name: PyTorch_V1.4.md
-      items:
-        - name: PyTorch_V1.4.md
-          href: project1/docs/LatestChanges/PyTorch_V1.4.md
-          type: markdown
-    - name: README.md
-      items:
-        - name: README.md
-          href: project1/docs/LatestChanges/README.md
-          type: markdown
-    - name: SUMMARY.md
-      items:
-        - name: SUMMARY.md
-          href: project1/docs/LatestChanges/SUMMARY.md
-          type: markdown
-- name: index.md
-  items:
-    - name: index.md
-      href: project1/docs/index.md
-      type: markdown
+  - name: '0.2'
+    items:
+      - name: README
+        items:
+          - name: README
+            href: project1/docs/0.2/README.md
+      - name: SUMMARY
+        items:
+          - name: SUMMARY
+            href: project1/docs/0.2/SUMMARY.md
+      - name: acknowledgement
+        items:
+          - name: acknowledgement
+            href: project1/docs/0.2/acknowledgement.md
+      - name: notes
+        items:
+          - name: autograd
+            items:
+              - name: autograd
+                href: project1/docs/0.2/notes/autograd.md
+          - name: cuda
+            items:
+              - name: cuda
+                href: project1/docs/0.2/notes/cuda.md
+          - name: extending
+            items:
+              - name: extending
+                href: project1/docs/0.2/notes/extending.md
+          - name: multiprocessing
+            items:
+              - name: multiprocessing
+                href: project1/docs/0.2/notes/multiprocessing.md
+          - name: serialization
+            items:
+              - name: serialization
+                href: project1/docs/0.2/notes/serialization.md
+      - name: package_references
+        items:
+          - name: Storage
+            items:
+              - name: Storage
+                href: project1/docs/0.2/package_references/Storage.md
+          - name: Tensor
+            items:
+              - name: Tensor
+                href: project1/docs/0.2/package_references/Tensor.md
+          - name: data
+            items:
+              - name: data
+                href: project1/docs/0.2/package_references/data.md
+          - name: ffi
+            items:
+              - name: ffi
+                href: project1/docs/0.2/package_references/ffi.md
+          - name: functional
+            items:
+              - name: functional
+                href: project1/docs/0.2/package_references/functional.md
+          - name: legacy
+            items:
+              - name: legacy
+                href: project1/docs/0.2/package_references/legacy.md
+          - name: model_zoo
+            items:
+              - name: model_zoo
+                href: project1/docs/0.2/package_references/model_zoo.md
+          - name: nn_init
+            items:
+              - name: nn_init
+                href: project1/docs/0.2/package_references/nn_init.md
+          - name: torch-autograd
+            items:
+              - name: torch-autograd
+                href: project1/docs/0.2/package_references/torch-autograd.md
+          - name: torch-cuda
+            items:
+              - name: torch-cuda
+                href: project1/docs/0.2/package_references/torch-cuda.md
+          - name: torch-multiprocessing
+            items:
+              - name: torch-multiprocessing
+                href: >-
+                  project1/docs/0.2/package_references/torch-multiprocessing.md
+          - name: torch-nn
+            items:
+              - name: torch-nn
+                href: project1/docs/0.2/package_references/torch-nn.md
+          - name: torch-optim
+            items:
+              - name: torch-optim
+                href: project1/docs/0.2/package_references/torch-optim.md
+          - name: torch
+            items:
+              - name: torch
+                href: project1/docs/0.2/package_references/torch.md
+      - name: torchvision
+        items:
+          - name: torchvision-datasets
+            items:
+              - name: torchvision-datasets
+                href: project1/docs/0.2/torchvision/torchvision-datasets.md
+          - name: torchvision-models
+            items:
+              - name: torchvision-models
+                href: project1/docs/0.2/torchvision/torchvision-models.md
+          - name: torchvision-transform
+            items:
+              - name: torchvision-transform
+                href: project1/docs/0.2/torchvision/torchvision-transform.md
+          - name: torchvision-utils
+            items:
+              - name: torchvision-utils
+                href: project1/docs/0.2/torchvision/torchvision-utils.md
+          - name: torchvision
+            items:
+              - name: torchvision
+                href: project1/docs/0.2/torchvision/torchvision.md
+  - name: '0.3'
+    items:
+      - name: README
+        items:
+          - name: README
+            href: project1/docs/0.3/README.md
+      - name: SUMMARY
+        items:
+          - name: SUMMARY
+            href: project1/docs/0.3/SUMMARY.md
+      - name: advanced_tutorials
+        items:
+          - name: advanced_tutorials
+            href: project1/docs/0.3/advanced_tutorials.md
+      - name: autograd
+        items:
+          - name: autograd
+            href: project1/docs/0.3/autograd.md
+      - name: beginner_tutorials
+        items:
+          - name: beginner_tutorials
+            href: project1/docs/0.3/beginner_tutorials.md
+      - name: blitz_autograd_tutorial
+        items:
+          - name: blitz_autograd_tutorial
+            href: project1/docs/0.3/blitz_autograd_tutorial.md
+      - name: blitz_cifar10_tutorial
+        items:
+          - name: blitz_cifar10_tutorial
+            href: project1/docs/0.3/blitz_cifar10_tutorial.md
+      - name: blitz_data_parallel_tutorial
+        items:
+          - name: blitz_data_parallel_tutorial
+            href: project1/docs/0.3/blitz_data_parallel_tutorial.md
+      - name: blitz_neural_networks_tutorial
+        items:
+          - name: blitz_neural_networks_tutorial
+            href: project1/docs/0.3/blitz_neural_networks_tutorial.md
+      - name: blitz_tensor_tutorial
+        items:
+          - name: blitz_tensor_tutorial
+            href: project1/docs/0.3/blitz_tensor_tutorial.md
+      - name: c_extension
+        items:
+          - name: c_extension
+            href: project1/docs/0.3/c_extension.md
+      - name: char_rnn_classification_tutorial
+        items:
+          - name: char_rnn_classification_tutorial
+            href: project1/docs/0.3/char_rnn_classification_tutorial.md
+      - name: char_rnn_generation_tutorial
+        items:
+          - name: char_rnn_generation_tutorial
+            href: project1/docs/0.3/char_rnn_generation_tutorial.md
+      - name: cuda
+        items:
+          - name: cuda
+            href: project1/docs/0.3/cuda.md
+      - name: data
+        items:
+          - name: data
+            href: project1/docs/0.3/data.md
+      - name: data_loading_tutorial
+        items:
+          - name: data_loading_tutorial
+            href: project1/docs/0.3/data_loading_tutorial.md
+      - name: datasets
+        items:
+          - name: datasets
+            href: project1/docs/0.3/datasets.md
+      - name: deep_learning_60min_blitz
+        items:
+          - name: deep_learning_60min_blitz
+            href: project1/docs/0.3/deep_learning_60min_blitz.md
+      - name: deep_learning_nlp_tutorial
+        items:
+          - name: deep_learning_nlp_tutorial
+            href: project1/docs/0.3/deep_learning_nlp_tutorial.md
+      - name: dist_tuto
+        items:
+          - name: dist_tuto
+            href: project1/docs/0.3/dist_tuto.md
+      - name: distributed
+        items:
+          - name: distributed
+            href: project1/docs/0.3/distributed.md
+      - name: distributions
+        items:
+          - name: distributions
+            href: project1/docs/0.3/distributions.md
+      - name: doc
+        items:
+          - name: doc
+            href: project1/docs/0.3/doc.md
+      - name: ffi
+        items:
+          - name: ffi
+            href: project1/docs/0.3/ffi.md
+      - name: former_torchies_autograd_tutorial
+        items:
+          - name: former_torchies_autograd_tutorial
+            href: project1/docs/0.3/former_torchies_autograd_tutorial.md
+      - name: former_torchies_nn_tutorial
+        items:
+          - name: former_torchies_nn_tutorial
+            href: project1/docs/0.3/former_torchies_nn_tutorial.md
+      - name: former_torchies_parallelism_tutorial
+        items:
+          - name: former_torchies_parallelism_tutorial
+            href: project1/docs/0.3/former_torchies_parallelism_tutorial.md
+      - name: former_torchies_tensor_tutorial
+        items:
+          - name: former_torchies_tensor_tutorial
+            href: project1/docs/0.3/former_torchies_tensor_tutorial.md
+      - name: former_torchies_tutorial
+        items:
+          - name: former_torchies_tutorial
+            href: project1/docs/0.3/former_torchies_tutorial.md
+      - name: intermediate_tutorials
+        items:
+          - name: intermediate_tutorials
+            href: project1/docs/0.3/intermediate_tutorials.md
+      - name: legacy
+        items:
+          - name: legacy
+            href: project1/docs/0.3/legacy.md
+      - name: model_zoo
+        items:
+          - name: model_zoo
+            href: project1/docs/0.3/model_zoo.md
+      - name: models
+        items:
+          - name: models
+            href: project1/docs/0.3/models.md
+      - name: multiprocessing
+        items:
+          - name: multiprocessing
+            href: project1/docs/0.3/multiprocessing.md
+      - name: neural_style_tutorial
+        items:
+          - name: neural_style_tutorial
+            href: project1/docs/0.3/neural_style_tutorial.md
+      - name: nlp_advanced_tutorial
+        items:
+          - name: nlp_advanced_tutorial
+            href: project1/docs/0.3/nlp_advanced_tutorial.md
+      - name: nlp_deep_learning_tutorial
+        items:
+          - name: nlp_deep_learning_tutorial
+            href: project1/docs/0.3/nlp_deep_learning_tutorial.md
+      - name: nlp_pytorch_tutorial
+        items:
+          - name: nlp_pytorch_tutorial
+            href: project1/docs/0.3/nlp_pytorch_tutorial.md
+      - name: nlp_sequence_models_tutorial
+        items:
+          - name: nlp_sequence_models_tutorial
+            href: project1/docs/0.3/nlp_sequence_models_tutorial.md
+      - name: nlp_word_embeddings_tutorial
+        items:
+          - name: nlp_word_embeddings_tutorial
+            href: project1/docs/0.3/nlp_word_embeddings_tutorial.md
+      - name: nn
+        items:
+          - name: nn
+            href: project1/docs/0.3/nn.md
+      - name: notes
+        items:
+          - name: notes
+            href: project1/docs/0.3/notes.md
+      - name: notes_autograd
+        items:
+          - name: notes_autograd
+            href: project1/docs/0.3/notes_autograd.md
+      - name: notes_broadcasting
+        items:
+          - name: notes_broadcasting
+            href: project1/docs/0.3/notes_broadcasting.md
+      - name: notes_cuda
+        items:
+          - name: notes_cuda
+            href: project1/docs/0.3/notes_cuda.md
+      - name: notes_extending
+        items:
+          - name: notes_extending
+            href: project1/docs/0.3/notes_extending.md
+      - name: notes_multiprocessing
+        items:
+          - name: notes_multiprocessing
+            href: project1/docs/0.3/notes_multiprocessing.md
+      - name: notes_serialization
+        items:
+          - name: notes_serialization
+            href: project1/docs/0.3/notes_serialization.md
+      - name: numpy_extensions_tutorial
+        items:
+          - name: numpy_extensions_tutorial
+            href: project1/docs/0.3/numpy_extensions_tutorial.md
+      - name: onnx
+        items:
+          - name: onnx
+            href: project1/docs/0.3/onnx.md
+      - name: optim
+        items:
+          - name: optim
+            href: project1/docs/0.3/optim.md
+      - name: package_reference
+        items:
+          - name: package_reference
+            href: project1/docs/0.3/package_reference.md
+      - name: pytorch_with_examples
+        items:
+          - name: pytorch_with_examples
+            href: project1/docs/0.3/pytorch_with_examples.md
+      - name: pytorch_with_examples_pytorch-control-flow-weight-sharing
+        items:
+          - name: pytorch_with_examples_pytorch-control-flow-weight-sharing
+            href: >-
+              project1/docs/0.3/pytorch_with_examples_pytorch-control-flow-weight-sharing.md
+      - name: pytorch_with_examples_pytorch-custom-nn-modules
+        items:
+          - name: pytorch_with_examples_pytorch-custom-nn-modules
+            href: >-
+              project1/docs/0.3/pytorch_with_examples_pytorch-custom-nn-modules.md
+      - name: pytorch_with_examples_pytorch-defining-new-autograd-functions
+        items:
+          - name: >-
+              pytorch_with_examples_pytorch-defining-new-autograd-functions
+            href: >-
+              project1/docs/0.3/pytorch_with_examples_pytorch-defining-new-autograd-functions.md
+      - name: pytorch_with_examples_pytorch-nn
+        items:
+          - name: pytorch_with_examples_pytorch-nn
+            href: project1/docs/0.3/pytorch_with_examples_pytorch-nn.md
+      - name: pytorch_with_examples_pytorch-optim
+        items:
+          - name: pytorch_with_examples_pytorch-optim
+            href: project1/docs/0.3/pytorch_with_examples_pytorch-optim.md
+      - name: pytorch_with_examples_pytorch-tensors
+        items:
+          - name: pytorch_with_examples_pytorch-tensors
+            href: project1/docs/0.3/pytorch_with_examples_pytorch-tensors.md
+      - name: pytorch_with_examples_pytorch-variables-and-autograd
+        items:
+          - name: pytorch_with_examples_pytorch-variables-and-autograd
+            href: >-
+              project1/docs/0.3/pytorch_with_examples_pytorch-variables-and-autograd.md
+      - name: pytorch_with_examples_tensorflow-static-graphs
+        items:
+          - name: pytorch_with_examples_tensorflow-static-graphs
+            href: >-
+              project1/docs/0.3/pytorch_with_examples_tensorflow-static-graphs.md
+      - name: pytorch_with_examples_warm-up-numpy
+        items:
+          - name: pytorch_with_examples_warm-up-numpy
+            href: project1/docs/0.3/pytorch_with_examples_warm-up-numpy.md
+      - name: reinforcement_q_learning
+        items:
+          - name: reinforcement_q_learning
+            href: project1/docs/0.3/reinforcement_q_learning.md
+      - name: seq2seq_translation_tutorial
+        items:
+          - name: seq2seq_translation_tutorial
+            href: project1/docs/0.3/seq2seq_translation_tutorial.md
+      - name: sparse
+        items:
+          - name: sparse
+            href: project1/docs/0.3/sparse.md
+      - name: spatial_transformer_tutorial
+        items:
+          - name: spatial_transformer_tutorial
+            href: project1/docs/0.3/spatial_transformer_tutorial.md
+      - name: storage
+        items:
+          - name: storage
+            href: project1/docs/0.3/storage.md
+      - name: super_resolution_with_caffe2
+        items:
+          - name: super_resolution_with_caffe2
+            href: project1/docs/0.3/super_resolution_with_caffe2.md
+      - name: tensors
+        items:
+          - name: tensors
+            href: project1/docs/0.3/tensors.md
+      - name: torch
+        items:
+          - name: torch
+            href: project1/docs/0.3/torch.md
+      - name: torchvision
+        items:
+          - name: torchvision
+            href: project1/docs/0.3/torchvision.md
+      - name: torchvision_reference
+        items:
+          - name: torchvision_reference
+            href: project1/docs/0.3/torchvision_reference.md
+      - name: transfer_learning_tutorial
+        items:
+          - name: transfer_learning_tutorial
+            href: project1/docs/0.3/transfer_learning_tutorial.md
+      - name: transforms
+        items:
+          - name: transforms
+            href: project1/docs/0.3/transforms.md
+      - name: tut
+        items:
+          - name: tut
+            href: project1/docs/0.3/tut.md
+      - name: utils
+        items:
+          - name: utils
+            href: project1/docs/0.3/utils.md
+  - name: '0.4'
+    items:
+      - name: '0'
+        items:
+          - name: '0'
+            href: project1/docs/0.4/0.md
+      - name: '1'
+        items:
+          - name: '1'
+            href: project1/docs/0.4/1.md
+      - name: '10'
+        items:
+          - name: '10'
+            href: project1/docs/0.4/10.md
+      - name: '11'
+        items:
+          - name: '11'
+            href: project1/docs/0.4/11.md
+      - name: '12'
+        items:
+          - name: '12'
+            href: project1/docs/0.4/12.md
+      - name: '13'
+        items:
+          - name: '13'
+            href: project1/docs/0.4/13.md
+      - name: '14'
+        items:
+          - name: '14'
+            href: project1/docs/0.4/14.md
+      - name: '15'
+        items:
+          - name: '15'
+            href: project1/docs/0.4/15.md
+      - name: '16'
+        items:
+          - name: '16'
+            href: project1/docs/0.4/16.md
+      - name: '17'
+        items:
+          - name: '17'
+            href: project1/docs/0.4/17.md
+      - name: '18'
+        items:
+          - name: '18'
+            href: project1/docs/0.4/18.md
+      - name: '19'
+        items:
+          - name: '19'
+            href: project1/docs/0.4/19.md
+      - name: '2'
+        items:
+          - name: '2'
+            href: project1/docs/0.4/2.md
+      - name: '20'
+        items:
+          - name: '20'
+            href: project1/docs/0.4/20.md
+      - name: '21'
+        items:
+          - name: '21'
+            href: project1/docs/0.4/21.md
+      - name: '22'
+        items:
+          - name: '22'
+            href: project1/docs/0.4/22.md
+      - name: '23'
+        items:
+          - name: '23'
+            href: project1/docs/0.4/23.md
+      - name: '24'
+        items:
+          - name: '24'
+            href: project1/docs/0.4/24.md
+      - name: '25'
+        items:
+          - name: '25'
+            href: project1/docs/0.4/25.md
+      - name: '26'
+        items:
+          - name: '26'
+            href: project1/docs/0.4/26.md
+      - name: '27'
+        items:
+          - name: '27'
+            href: project1/docs/0.4/27.md
+      - name: '28'
+        items:
+          - name: '28'
+            href: project1/docs/0.4/28.md
+      - name: '29'
+        items:
+          - name: '29'
+            href: project1/docs/0.4/29.md
+      - name: '3'
+        items:
+          - name: '3'
+            href: project1/docs/0.4/3.md
+      - name: '30'
+        items:
+          - name: '30'
+            href: project1/docs/0.4/30.md
+      - name: '31'
+        items:
+          - name: '31'
+            href: project1/docs/0.4/31.md
+      - name: '32'
+        items:
+          - name: '32'
+            href: project1/docs/0.4/32.md
+      - name: '33'
+        items:
+          - name: '33'
+            href: project1/docs/0.4/33.md
+      - name: '34'
+        items:
+          - name: '34'
+            href: project1/docs/0.4/34.md
+      - name: '35'
+        items:
+          - name: '35'
+            href: project1/docs/0.4/35.md
+      - name: '36'
+        items:
+          - name: '36'
+            href: project1/docs/0.4/36.md
+      - name: '37'
+        items:
+          - name: '37'
+            href: project1/docs/0.4/37.md
+      - name: '4'
+        items:
+          - name: '4'
+            href: project1/docs/0.4/4.md
+      - name: '5'
+        items:
+          - name: '5'
+            href: project1/docs/0.4/5.md
+      - name: '6'
+        items:
+          - name: '6'
+            href: project1/docs/0.4/6.md
+      - name: '7'
+        items:
+          - name: '7'
+            href: project1/docs/0.4/7.md
+      - name: '8'
+        items:
+          - name: '8'
+            href: project1/docs/0.4/8.md
+      - name: '9'
+        items:
+          - name: '9'
+            href: project1/docs/0.4/9.md
+      - name: README
+        items:
+          - name: README
+            href: project1/docs/0.4/README.md
+      - name: SUMMARY
+        items:
+          - name: SUMMARY
+            href: project1/docs/0.4/SUMMARY.md
+  - name: '1.0'
+    items:
+      - name: ONNXLive
+        items:
+          - name: ONNXLive
+            href: project1/docs/1.0/ONNXLive.md
+      - name: README
+        items:
+          - name: README
+            href: project1/docs/1.0/README.md
+      - name: SUMMARY
+        items:
+          - name: SUMMARY
+            href: project1/docs/1.0/SUMMARY.md
+      - name: autograd
+        items:
+          - name: autograd
+            href: project1/docs/1.0/autograd.md
+      - name: aws_distributed_training_tutorial
+        items:
+          - name: aws_distributed_training_tutorial
+            href: project1/docs/1.0/aws_distributed_training_tutorial.md
+      - name: blitz_autograd_tutorial
+        items:
+          - name: blitz_autograd_tutorial
+            href: project1/docs/1.0/blitz_autograd_tutorial.md
+      - name: blitz_cifar10_tutorial
+        items:
+          - name: blitz_cifar10_tutorial
+            href: project1/docs/1.0/blitz_cifar10_tutorial.md
+      - name: blitz_data_parallel_tutorial
+        items:
+          - name: blitz_data_parallel_tutorial
+            href: project1/docs/1.0/blitz_data_parallel_tutorial.md
+      - name: blitz_neural_networks_tutorial
+        items:
+          - name: blitz_neural_networks_tutorial
+            href: project1/docs/1.0/blitz_neural_networks_tutorial.md
+      - name: blitz_tensor_tutorial
+        items:
+          - name: blitz_tensor_tutorial
+            href: project1/docs/1.0/blitz_tensor_tutorial.md
+      - name: bottleneck
+        items:
+          - name: bottleneck
+            href: project1/docs/1.0/bottleneck.md
+      - name: char_rnn_classification_tutorial
+        items:
+          - name: char_rnn_classification_tutorial
+            href: project1/docs/1.0/char_rnn_classification_tutorial.md
+      - name: char_rnn_generation_tutorial
+        items:
+          - name: char_rnn_generation_tutorial
+            href: project1/docs/1.0/char_rnn_generation_tutorial.md
+      - name: chatbot_tutorial
+        items:
+          - name: chatbot_tutorial
+            href: project1/docs/1.0/chatbot_tutorial.md
+      - name: checkpoint
+        items:
+          - name: checkpoint
+            href: project1/docs/1.0/checkpoint.md
+      - name: cpp_export
+        items:
+          - name: cpp_export
+            href: project1/docs/1.0/cpp_export.md
+      - name: cpp_extension
+        items:
+          - name: cpp_extension
+            href: project1/docs/1.0/cpp_extension.md
+      - name: cpp_frontend
+        items:
+          - name: cpp_frontend
+            href: project1/docs/1.0/cpp_frontend.md
+      - name: cuda
+        items:
+          - name: cuda
+            href: project1/docs/1.0/cuda.md
+      - name: data
+        items:
+          - name: data
+            href: project1/docs/1.0/data.md
+      - name: data_loading_tutorial
+        items:
+          - name: data_loading_tutorial
+            href: project1/docs/1.0/data_loading_tutorial.md
+      - name: dcgan_faces_tutorial
+        items:
+          - name: dcgan_faces_tutorial
+            href: project1/docs/1.0/dcgan_faces_tutorial.md
+      - name: deep_learning_60min_blitz
+        items:
+          - name: deep_learning_60min_blitz
+            href: project1/docs/1.0/deep_learning_60min_blitz.md
+      - name: deep_learning_nlp_tutorial
+        items:
+          - name: deep_learning_nlp_tutorial
+            href: project1/docs/1.0/deep_learning_nlp_tutorial.md
+      - name: deploy_seq2seq_hybrid_frontend_tutorial
+        items:
+          - name: deploy_seq2seq_hybrid_frontend_tutorial
+            href: >-
+              project1/docs/1.0/deploy_seq2seq_hybrid_frontend_tutorial.md
+      - name: dist_tuto
+        items:
+          - name: dist_tuto
+            href: project1/docs/1.0/dist_tuto.md
+      - name: distributed
+        items:
+          - name: distributed
+            href: project1/docs/1.0/distributed.md
+      - name: distributed_deprecated
+        items:
+          - name: distributed_deprecated
+            href: project1/docs/1.0/distributed_deprecated.md
+      - name: distributions
+        items:
+          - name: distributions
+            href: project1/docs/1.0/distributions.md
+      - name: dlpack
+        items:
+          - name: dlpack
+            href: project1/docs/1.0/dlpack.md
+      - name: docs_cpp_extension
+        items:
+          - name: docs_cpp_extension
+            href: project1/docs/1.0/docs_cpp_extension.md
+      - name: docs_notes
+        items:
+          - name: docs_notes
+            href: project1/docs/1.0/docs_notes.md
+      - name: docs_package_ref
+        items:
+          - name: docs_package_ref
+            href: project1/docs/1.0/docs_package_ref.md
+      - name: docs_torchvision_ref
+        items:
+          - name: docs_torchvision_ref
+            href: project1/docs/1.0/docs_torchvision_ref.md
+      - name: fgsm_tutorial
+        items:
+          - name: fgsm_tutorial
+            href: project1/docs/1.0/fgsm_tutorial.md
+      - name: finetuning_torchvision_models_tutorial
+        items:
+          - name: finetuning_torchvision_models_tutorial
+            href: >-
+              project1/docs/1.0/finetuning_torchvision_models_tutorial.md
+      - name: hub
+        items:
+          - name: hub
+            href: project1/docs/1.0/hub.md
+      - name: jit
+        items:
+          - name: jit
+            href: project1/docs/1.0/jit.md
+      - name: model_zoo
+        items:
+          - name: model_zoo
+            href: project1/docs/1.0/model_zoo.md
+      - name: multiprocessing
+        items:
+          - name: multiprocessing
+            href: project1/docs/1.0/multiprocessing.md
+      - name: neural_style_tutorial
+        items:
+          - name: neural_style_tutorial
+            href: project1/docs/1.0/neural_style_tutorial.md
+      - name: nlp_advanced_tutorial
+        items:
+          - name: nlp_advanced_tutorial
+            href: project1/docs/1.0/nlp_advanced_tutorial.md
+      - name: nlp_deep_learning_tutorial
+        items:
+          - name: nlp_deep_learning_tutorial
+            href: project1/docs/1.0/nlp_deep_learning_tutorial.md
+      - name: nlp_pytorch_tutorial
+        items:
+          - name: nlp_pytorch_tutorial
+            href: project1/docs/1.0/nlp_pytorch_tutorial.md
+      - name: nlp_sequence_models_tutorial
+        items:
+          - name: nlp_sequence_models_tutorial
+            href: project1/docs/1.0/nlp_sequence_models_tutorial.md
+      - name: nlp_word_embeddings_tutorial
+        items:
+          - name: nlp_word_embeddings_tutorial
+            href: project1/docs/1.0/nlp_word_embeddings_tutorial.md
+      - name: nn
+        items:
+          - name: nn
+            href: project1/docs/1.0/nn.md
+      - name: nn_functional
+        items:
+          - name: nn_functional
+            href: project1/docs/1.0/nn_functional.md
+      - name: nn_init
+        items:
+          - name: nn_init
+            href: project1/docs/1.0/nn_init.md
+      - name: nn_tutorial
+        items:
+          - name: nn_tutorial
+            href: project1/docs/1.0/nn_tutorial.md
+      - name: notes_autograd
+        items:
+          - name: notes_autograd
+            href: project1/docs/1.0/notes_autograd.md
+      - name: notes_broadcasting
+        items:
+          - name: notes_broadcasting
+            href: project1/docs/1.0/notes_broadcasting.md
+      - name: notes_cuda
+        items:
+          - name: notes_cuda
+            href: project1/docs/1.0/notes_cuda.md
+      - name: notes_extending
+        items:
+          - name: notes_extending
+            href: project1/docs/1.0/notes_extending.md
+      - name: notes_faq
+        items:
+          - name: notes_faq
+            href: project1/docs/1.0/notes_faq.md
+      - name: notes_multiprocessing
+        items:
+          - name: notes_multiprocessing
+            href: project1/docs/1.0/notes_multiprocessing.md
+      - name: notes_randomness
+        items:
+          - name: notes_randomness
+            href: project1/docs/1.0/notes_randomness.md
+      - name: notes_serialization
+        items:
+          - name: notes_serialization
+            href: project1/docs/1.0/notes_serialization.md
+      - name: notes_windows
+        items:
+          - name: notes_windows
+            href: project1/docs/1.0/notes_windows.md
+      - name: numpy_extensions_tutorial
+        items:
+          - name: numpy_extensions_tutorial
+            href: project1/docs/1.0/numpy_extensions_tutorial.md
+      - name: onnx
+        items:
+          - name: onnx
+            href: project1/docs/1.0/onnx.md
+      - name: optim
+        items:
+          - name: optim
+            href: project1/docs/1.0/optim.md
+      - name: pytorch_with_examples
+        items:
+          - name: pytorch_with_examples
+            href: project1/docs/1.0/pytorch_with_examples.md
+      - name: reinforcement_q_learning
+        items:
+          - name: reinforcement_q_learning
+            href: project1/docs/1.0/reinforcement_q_learning.md
+      - name: saving_loading_models
+        items:
+          - name: saving_loading_models
+            href: project1/docs/1.0/saving_loading_models.md
+      - name: seq2seq_translation_tutorial
+        items:
+          - name: seq2seq_translation_tutorial
+            href: project1/docs/1.0/seq2seq_translation_tutorial.md
+      - name: sparse
+        items:
+          - name: sparse
+            href: project1/docs/1.0/sparse.md
+      - name: spatial_transformer_tutorial
+        items:
+          - name: spatial_transformer_tutorial
+            href: project1/docs/1.0/spatial_transformer_tutorial.md
+      - name: storage
+        items:
+          - name: storage
+            href: project1/docs/1.0/storage.md
+      - name: super_resolution_with_caffe2
+        items:
+          - name: super_resolution_with_caffe2
+            href: project1/docs/1.0/super_resolution_with_caffe2.md
+      - name: tensor_attributes
+        items:
+          - name: tensor_attributes
+            href: project1/docs/1.0/tensor_attributes.md
+      - name: tensors
+        items:
+          - name: tensors
+            href: project1/docs/1.0/tensors.md
+      - name: torch
+        items:
+          - name: torch
+            href: project1/docs/1.0/torch.md
+      - name: torch_math_operations
+        items:
+          - name: torch_math_operations
+            href: project1/docs/1.0/torch_math_operations.md
+      - name: torch_math_operations_blas_lapack_ops
+        items:
+          - name: torch_math_operations_blas_lapack_ops
+            href: project1/docs/1.0/torch_math_operations_blas_lapack_ops.md
+      - name: torch_math_operations_comparison_ops
+        items:
+          - name: torch_math_operations_comparison_ops
+            href: project1/docs/1.0/torch_math_operations_comparison_ops.md
+      - name: torch_math_operations_other_ops
+        items:
+          - name: torch_math_operations_other_ops
+            href: project1/docs/1.0/torch_math_operations_other_ops.md
+      - name: torch_math_operations_pointwise_ops
+        items:
+          - name: torch_math_operations_pointwise_ops
+            href: project1/docs/1.0/torch_math_operations_pointwise_ops.md
+      - name: torch_math_operations_reduction_ops
+        items:
+          - name: torch_math_operations_reduction_ops
+            href: project1/docs/1.0/torch_math_operations_reduction_ops.md
+      - name: torch_math_operations_spectral_ops
+        items:
+          - name: torch_math_operations_spectral_ops
+            href: project1/docs/1.0/torch_math_operations_spectral_ops.md
+      - name: torch_random_sampling
+        items:
+          - name: torch_random_sampling
+            href: project1/docs/1.0/torch_random_sampling.md
+      - name: torch_script_custom_ops
+        items:
+          - name: torch_script_custom_ops
+            href: project1/docs/1.0/torch_script_custom_ops.md
+      - name: torch_serialization_parallelism_utilities
+        items:
+          - name: torch_serialization_parallelism_utilities
+            href: >-
+              project1/docs/1.0/torch_serialization_parallelism_utilities.md
+      - name: torch_tensors
+        items:
+          - name: torch_tensors
+            href: project1/docs/1.0/torch_tensors.md
+      - name: torchvision_datasets
+        items:
+          - name: torchvision_datasets
+            href: project1/docs/1.0/torchvision_datasets.md
+      - name: torchvision_models
+        items:
+          - name: torchvision_models
+            href: project1/docs/1.0/torchvision_models.md
+      - name: torchvision_transforms
+        items:
+          - name: torchvision_transforms
+            href: project1/docs/1.0/torchvision_transforms.md
+      - name: torchvision_utils
+        items:
+          - name: torchvision_utils
+            href: project1/docs/1.0/torchvision_utils.md
+      - name: transfer_learning_tutorial
+        items:
+          - name: transfer_learning_tutorial
+            href: project1/docs/1.0/transfer_learning_tutorial.md
+      - name: tut_extending_pytorch
+        items:
+          - name: tut_extending_pytorch
+            href: project1/docs/1.0/tut_extending_pytorch.md
+      - name: tut_generative
+        items:
+          - name: tut_generative
+            href: project1/docs/1.0/tut_generative.md
+      - name: tut_getting_started
+        items:
+          - name: tut_getting_started
+            href: project1/docs/1.0/tut_getting_started.md
+      - name: tut_image
+        items:
+          - name: tut_image
+            href: project1/docs/1.0/tut_image.md
+      - name: tut_other_language
+        items:
+          - name: tut_other_language
+            href: project1/docs/1.0/tut_other_language.md
+      - name: tut_production_usage
+        items:
+          - name: tut_production_usage
+            href: project1/docs/1.0/tut_production_usage.md
+      - name: tut_reinforcement_learning
+        items:
+          - name: tut_reinforcement_learning
+            href: project1/docs/1.0/tut_reinforcement_learning.md
+      - name: tut_text
+        items:
+          - name: tut_text
+            href: project1/docs/1.0/tut_text.md
+      - name: type_info
+        items:
+          - name: type_info
+            href: project1/docs/1.0/type_info.md
+  - name: '1.4'
+    items:
+      - name: '10'
+        items:
+          - name: '10'
+            href: project1/docs/1.4/10.md
+      - name: '100'
+        items:
+          - name: '100'
+            href: project1/docs/1.4/100.md
+      - name: '101'
+        items:
+          - name: '101'
+            href: project1/docs/1.4/101.md
+      - name: '102'
+        items:
+          - name: '102'
+            href: project1/docs/1.4/102.md
+      - name: '103'
+        items:
+          - name: '103'
+            href: project1/docs/1.4/103.md
+      - name: '104'
+        items:
+          - name: '104'
+            href: project1/docs/1.4/104.md
+      - name: '105'
+        items:
+          - name: '105'
+            href: project1/docs/1.4/105.md
+      - name: '106'
+        items:
+          - name: '106'
+            href: project1/docs/1.4/106.md
+      - name: '107'
+        items:
+          - name: '107'
+            href: project1/docs/1.4/107.md
+      - name: '108'
+        items:
+          - name: '108'
+            href: project1/docs/1.4/108.md
+      - name: '109'
+        items:
+          - name: '109'
+            href: project1/docs/1.4/109.md
+      - name: '11'
+        items:
+          - name: '11'
+            href: project1/docs/1.4/11.md
+      - name: '110'
+        items:
+          - name: '110'
+            href: project1/docs/1.4/110.md
+      - name: '111'
+        items:
+          - name: '111'
+            href: project1/docs/1.4/111.md
+      - name: '112'
+        items:
+          - name: '112'
+            href: project1/docs/1.4/112.md
+      - name: '113'
+        items:
+          - name: '113'
+            href: project1/docs/1.4/113.md
+      - name: '12'
+        items:
+          - name: '12'
+            href: project1/docs/1.4/12.md
+      - name: '13'
+        items:
+          - name: '13'
+            href: project1/docs/1.4/13.md
+      - name: '14'
+        items:
+          - name: '14'
+            href: project1/docs/1.4/14.md
+      - name: '15'
+        items:
+          - name: '15'
+            href: project1/docs/1.4/15.md
+      - name: '16'
+        items:
+          - name: '16'
+            href: project1/docs/1.4/16.md
+      - name: '17'
+        items:
+          - name: '17'
+            href: project1/docs/1.4/17.md
+      - name: '18'
+        items:
+          - name: '18'
+            href: project1/docs/1.4/18.md
+      - name: '19'
+        items:
+          - name: '19'
+            href: project1/docs/1.4/19.md
+      - name: '20'
+        items:
+          - name: '20'
+            href: project1/docs/1.4/20.md
+      - name: '21'
+        items:
+          - name: '21'
+            href: project1/docs/1.4/21.md
+      - name: '22'
+        items:
+          - name: '22'
+            href: project1/docs/1.4/22.md
+      - name: '23'
+        items:
+          - name: '23'
+            href: project1/docs/1.4/23.md
+      - name: '24'
+        items:
+          - name: '24'
+            href: project1/docs/1.4/24.md
+      - name: '25'
+        items:
+          - name: '25'
+            href: project1/docs/1.4/25.md
+      - name: '26'
+        items:
+          - name: '26'
+            href: project1/docs/1.4/26.md
+      - name: '27'
+        items:
+          - name: '27'
+            href: project1/docs/1.4/27.md
+      - name: '28'
+        items:
+          - name: '28'
+            href: project1/docs/1.4/28.md
+      - name: '29'
+        items:
+          - name: '29'
+            href: project1/docs/1.4/29.md
+      - name: '3'
+        items:
+          - name: '3'
+            href: project1/docs/1.4/3.md
+      - name: '30'
+        items:
+          - name: '30'
+            href: project1/docs/1.4/30.md
+      - name: '31'
+        items:
+          - name: '31'
+            href: project1/docs/1.4/31.md
+      - name: '32'
+        items:
+          - name: '32'
+            href: project1/docs/1.4/32.md
+      - name: '33'
+        items:
+          - name: '33'
+            href: project1/docs/1.4/33.md
+      - name: '34'
+        items:
+          - name: '34'
+            href: project1/docs/1.4/34.md
+      - name: '35'
+        items:
+          - name: '35'
+            href: project1/docs/1.4/35.md
+      - name: '36'
+        items:
+          - name: '36'
+            href: project1/docs/1.4/36.md
+      - name: '37'
+        items:
+          - name: '37'
+            href: project1/docs/1.4/37.md
+      - name: '38'
+        items:
+          - name: '38'
+            href: project1/docs/1.4/38.md
+      - name: '39'
+        items:
+          - name: '39'
+            href: project1/docs/1.4/39.md
+      - name: '4'
+        items:
+          - name: '4'
+            href: project1/docs/1.4/4.md
+      - name: '40'
+        items:
+          - name: '40'
+            href: project1/docs/1.4/40.md
+      - name: '41'
+        items:
+          - name: '41'
+            href: project1/docs/1.4/41.md
+      - name: '42'
+        items:
+          - name: '42'
+            href: project1/docs/1.4/42.md
+      - name: '43'
+        items:
+          - name: '43'
+            href: project1/docs/1.4/43.md
+      - name: '44'
+        items:
+          - name: '44'
+            href: project1/docs/1.4/44.md
+      - name: '45'
+        items:
+          - name: '45'
+            href: project1/docs/1.4/45.md
+      - name: '46'
+        items:
+          - name: '46'
+            href: project1/docs/1.4/46.md
+      - name: '47'
+        items:
+          - name: '47'
+            href: project1/docs/1.4/47.md
+      - name: '48'
+        items:
+          - name: '48'
+            href: project1/docs/1.4/48.md
+      - name: '49'
+        items:
+          - name: '49'
+            href: project1/docs/1.4/49.md
+      - name: '5'
+        items:
+          - name: '5'
+            href: project1/docs/1.4/5.md
+      - name: '50'
+        items:
+          - name: '50'
+            href: project1/docs/1.4/50.md
+      - name: '51'
+        items:
+          - name: '51'
+            href: project1/docs/1.4/51.md
+      - name: '52'
+        items:
+          - name: '52'
+            href: project1/docs/1.4/52.md
+      - name: '53'
+        items:
+          - name: '53'
+            href: project1/docs/1.4/53.md
+      - name: '54'
+        items:
+          - name: '54'
+            href: project1/docs/1.4/54.md
+      - name: '55'
+        items:
+          - name: '55'
+            href: project1/docs/1.4/55.md
+      - name: '56'
+        items:
+          - name: '56'
+            href: project1/docs/1.4/56.md
+      - name: '57'
+        items:
+          - name: '57'
+            href: project1/docs/1.4/57.md
+      - name: '58'
+        items:
+          - name: '58'
+            href: project1/docs/1.4/58.md
+      - name: '59'
+        items:
+          - name: '59'
+            href: project1/docs/1.4/59.md
+      - name: '6'
+        items:
+          - name: '6'
+            href: project1/docs/1.4/6.md
+      - name: '60'
+        items:
+          - name: '60'
+            href: project1/docs/1.4/60.md
+      - name: '61'
+        items:
+          - name: '61'
+            href: project1/docs/1.4/61.md
+      - name: '62'
+        items:
+          - name: '62'
+            href: project1/docs/1.4/62.md
+      - name: '63'
+        items:
+          - name: '63'
+            href: project1/docs/1.4/63.md
+      - name: '64'
+        items:
+          - name: '64'
+            href: project1/docs/1.4/64.md
+      - name: '65'
+        items:
+          - name: '65'
+            href: project1/docs/1.4/65.md
+      - name: '66'
+        items:
+          - name: '66'
+            href: project1/docs/1.4/66.md
+      - name: '67'
+        items:
+          - name: '67'
+            href: project1/docs/1.4/67.md
+      - name: '68'
+        items:
+          - name: '68'
+            href: project1/docs/1.4/68.md
+      - name: '69'
+        items:
+          - name: '69'
+            href: project1/docs/1.4/69.md
+      - name: '7'
+        items:
+          - name: '7'
+            href: project1/docs/1.4/7.md
+      - name: '70'
+        items:
+          - name: '70'
+            href: project1/docs/1.4/70.md
+      - name: '71'
+        items:
+          - name: '71'
+            href: project1/docs/1.4/71.md
+      - name: '72'
+        items:
+          - name: '72'
+            href: project1/docs/1.4/72.md
+      - name: '73'
+        items:
+          - name: '73'
+            href: project1/docs/1.4/73.md
+      - name: '74'
+        items:
+          - name: '74'
+            href: project1/docs/1.4/74.md
+      - name: '75'
+        items:
+          - name: '75'
+            href: project1/docs/1.4/75.md
+      - name: '76'
+        items:
+          - name: '76'
+            href: project1/docs/1.4/76.md
+      - name: '77'
+        items:
+          - name: '77'
+            href: project1/docs/1.4/77.md
+      - name: '78'
+        items:
+          - name: '78'
+            href: project1/docs/1.4/78.md
+      - name: '79'
+        items:
+          - name: '79'
+            href: project1/docs/1.4/79.md
+      - name: '8'
+        items:
+          - name: '8'
+            href: project1/docs/1.4/8.md
+      - name: '80'
+        items:
+          - name: '80'
+            href: project1/docs/1.4/80.md
+      - name: '81'
+        items:
+          - name: '81'
+            href: project1/docs/1.4/81.md
+      - name: '82'
+        items:
+          - name: '82'
+            href: project1/docs/1.4/82.md
+      - name: '83'
+        items:
+          - name: '83'
+            href: project1/docs/1.4/83.md
+      - name: '84'
+        items:
+          - name: '84'
+            href: project1/docs/1.4/84.md
+      - name: '85'
+        items:
+          - name: '85'
+            href: project1/docs/1.4/85.md
+      - name: '86'
+        items:
+          - name: '86'
+            href: project1/docs/1.4/86.md
+      - name: '87'
+        items:
+          - name: '87'
+            href: project1/docs/1.4/87.md
+      - name: '88'
+        items:
+          - name: '88'
+            href: project1/docs/1.4/88.md
+      - name: '89'
+        items:
+          - name: '89'
+            href: project1/docs/1.4/89.md
+      - name: '9'
+        items:
+          - name: '9'
+            href: project1/docs/1.4/9.md
+      - name: '90'
+        items:
+          - name: '90'
+            href: project1/docs/1.4/90.md
+      - name: '91'
+        items:
+          - name: '91'
+            href: project1/docs/1.4/91.md
+      - name: '92'
+        items:
+          - name: '92'
+            href: project1/docs/1.4/92.md
+      - name: '93'
+        items:
+          - name: '93'
+            href: project1/docs/1.4/93.md
+      - name: '94'
+        items:
+          - name: '94'
+            href: project1/docs/1.4/94.md
+      - name: '95'
+        items:
+          - name: '95'
+            href: project1/docs/1.4/95.md
+      - name: '96'
+        items:
+          - name: '96'
+            href: project1/docs/1.4/96.md
+      - name: '97'
+        items:
+          - name: '97'
+            href: project1/docs/1.4/97.md
+      - name: '98'
+        items:
+          - name: '98'
+            href: project1/docs/1.4/98.md
+      - name: '99'
+        items:
+          - name: '99'
+            href: project1/docs/1.4/99.md
+      - name: README
+        items:
+          - name: README
+            href: project1/docs/1.4/README.md
+      - name: SUMMARY
+        items:
+          - name: SUMMARY
+            href: project1/docs/1.4/SUMMARY.md
+      - name: blitz
+        items:
+          - name: autograd_tutorial
+            items:
+              - name: autograd_tutorial
+                href: project1/docs/1.4/blitz/autograd_tutorial.md
+          - name: cifar10_tutorial
+            items:
+              - name: cifar10_tutorial
+                href: project1/docs/1.4/blitz/cifar10_tutorial.md
+          - name: data_parallel_tutorial
+            items:
+              - name: data_parallel_tutorial
+                href: project1/docs/1.4/blitz/data_parallel_tutorial.md
+          - name: neural_networks_tutorial
+            items:
+              - name: neural_networks_tutorial
+                href: project1/docs/1.4/blitz/neural_networks_tutorial.md
+          - name: tensor_tutorial
+            items:
+              - name: tensor_tutorial
+                href: project1/docs/1.4/blitz/tensor_tutorial.md
+  - name: '1.7'
+    items:
+      - name: '01'
+        items:
+          - name: '01'
+            href: project1/docs/1.7/01.md
+      - name: '02'
+        items:
+          - name: '02'
+            href: project1/docs/1.7/02.md
+      - name: '03'
+        items:
+          - name: '03'
+            href: project1/docs/1.7/03.md
+      - name: '04'
+        items:
+          - name: '04'
+            href: project1/docs/1.7/04.md
+      - name: '05'
+        items:
+          - name: '05'
+            href: project1/docs/1.7/05.md
+      - name: '06'
+        items:
+          - name: '06'
+            href: project1/docs/1.7/06.md
+      - name: '07'
+        items:
+          - name: '07'
+            href: project1/docs/1.7/07.md
+      - name: 08
+        items:
+          - name: 08
+            href: project1/docs/1.7/08.md
+      - name: 09
+        items:
+          - name: 09
+            href: project1/docs/1.7/09.md
+      - name: '10'
+        items:
+          - name: '10'
+            href: project1/docs/1.7/10.md
+      - name: '11'
+        items:
+          - name: '11'
+            href: project1/docs/1.7/11.md
+      - name: '12'
+        items:
+          - name: '12'
+            href: project1/docs/1.7/12.md
+      - name: '13'
+        items:
+          - name: '13'
+            href: project1/docs/1.7/13.md
+      - name: '14'
+        items:
+          - name: '14'
+            href: project1/docs/1.7/14.md
+      - name: '15'
+        items:
+          - name: '15'
+            href: project1/docs/1.7/15.md
+      - name: '16'
+        items:
+          - name: '16'
+            href: project1/docs/1.7/16.md
+      - name: '17'
+        items:
+          - name: '17'
+            href: project1/docs/1.7/17.md
+      - name: '18'
+        items:
+          - name: '18'
+            href: project1/docs/1.7/18.md
+      - name: '19'
+        items:
+          - name: '19'
+            href: project1/docs/1.7/19.md
+      - name: '20'
+        items:
+          - name: '20'
+            href: project1/docs/1.7/20.md
+      - name: '21'
+        items:
+          - name: '21'
+            href: project1/docs/1.7/21.md
+      - name: '22'
+        items:
+          - name: '22'
+            href: project1/docs/1.7/22.md
+      - name: '23'
+        items:
+          - name: '23'
+            href: project1/docs/1.7/23.md
+      - name: '24'
+        items:
+          - name: '24'
+            href: project1/docs/1.7/24.md
+      - name: '25'
+        items:
+          - name: '25'
+            href: project1/docs/1.7/25.md
+      - name: '26'
+        items:
+          - name: '26'
+            href: project1/docs/1.7/26.md
+      - name: '27'
+        items:
+          - name: '27'
+            href: project1/docs/1.7/27.md
+      - name: '28'
+        items:
+          - name: '28'
+            href: project1/docs/1.7/28.md
+      - name: '29'
+        items:
+          - name: '29'
+            href: project1/docs/1.7/29.md
+      - name: '30'
+        items:
+          - name: '30'
+            href: project1/docs/1.7/30.md
+      - name: '31'
+        items:
+          - name: '31'
+            href: project1/docs/1.7/31.md
+      - name: '32'
+        items:
+          - name: '32'
+            href: project1/docs/1.7/32.md
+      - name: '33'
+        items:
+          - name: '33'
+            href: project1/docs/1.7/33.md
+      - name: '34'
+        items:
+          - name: '34'
+            href: project1/docs/1.7/34.md
+      - name: '35'
+        items:
+          - name: '35'
+            href: project1/docs/1.7/35.md
+      - name: '36'
+        items:
+          - name: '36'
+            href: project1/docs/1.7/36.md
+      - name: '37'
+        items:
+          - name: '37'
+            href: project1/docs/1.7/37.md
+      - name: '38'
+        items:
+          - name: '38'
+            href: project1/docs/1.7/38.md
+      - name: '39'
+        items:
+          - name: '39'
+            href: project1/docs/1.7/39.md
+      - name: '40'
+        items:
+          - name: '40'
+            href: project1/docs/1.7/40.md
+      - name: '41'
+        items:
+          - name: '41'
+            href: project1/docs/1.7/41.md
+      - name: '42'
+        items:
+          - name: '42'
+            href: project1/docs/1.7/42.md
+      - name: '43'
+        items:
+          - name: '43'
+            href: project1/docs/1.7/43.md
+      - name: '44'
+        items:
+          - name: '44'
+            href: project1/docs/1.7/44.md
+      - name: '45'
+        items:
+          - name: '45'
+            href: project1/docs/1.7/45.md
+      - name: '46'
+        items:
+          - name: '46'
+            href: project1/docs/1.7/46.md
+      - name: '47'
+        items:
+          - name: '47'
+            href: project1/docs/1.7/47.md
+      - name: '48'
+        items:
+          - name: '48'
+            href: project1/docs/1.7/48.md
+      - name: '49'
+        items:
+          - name: '49'
+            href: project1/docs/1.7/49.md
+      - name: '50'
+        items:
+          - name: '50'
+            href: project1/docs/1.7/50.md
+      - name: '51'
+        items:
+          - name: '51'
+            href: project1/docs/1.7/51.md
+      - name: '52'
+        items:
+          - name: '52'
+            href: project1/docs/1.7/52.md
+      - name: '53'
+        items:
+          - name: '53'
+            href: project1/docs/1.7/53.md
+      - name: '54'
+        items:
+          - name: '54'
+            href: project1/docs/1.7/54.md
+      - name: '55'
+        items:
+          - name: '55'
+            href: project1/docs/1.7/55.md
+      - name: '56'
+        items:
+          - name: '56'
+            href: project1/docs/1.7/56.md
+      - name: '57'
+        items:
+          - name: '57'
+            href: project1/docs/1.7/57.md
+      - name: '58'
+        items:
+          - name: '58'
+            href: project1/docs/1.7/58.md
+      - name: '59'
+        items:
+          - name: '59'
+            href: project1/docs/1.7/59.md
+      - name: '60'
+        items:
+          - name: '60'
+            href: project1/docs/1.7/60.md
+      - name: '61'
+        items:
+          - name: '61'
+            href: project1/docs/1.7/61.md
+      - name: '62'
+        items:
+          - name: '62'
+            href: project1/docs/1.7/62.md
+      - name: '63'
+        items:
+          - name: '63'
+            href: project1/docs/1.7/63.md
+      - name: '64'
+        items:
+          - name: '64'
+            href: project1/docs/1.7/64.md
+      - name: '65'
+        items:
+          - name: '65'
+            href: project1/docs/1.7/65.md
+      - name: '66'
+        items:
+          - name: '66'
+            href: project1/docs/1.7/66.md
+      - name: '67'
+        items:
+          - name: '67'
+            href: project1/docs/1.7/67.md
+      - name: '68'
+        items:
+          - name: '68'
+            href: project1/docs/1.7/68.md
+      - name: README
+        items:
+          - name: README
+            href: project1/docs/1.7/README.md
+      - name: SUMMARY
+        items:
+          - name: SUMMARY
+            href: project1/docs/1.7/SUMMARY.md
+  - name: LatestChanges
+    items:
+      - name: PyTorch_V1.2
+        items:
+          - name: PyTorch_V1
+            href: project1/docs/LatestChanges/PyTorch_V1.2.md
+      - name: PyTorch_V1.3
+        items:
+          - name: PyTorch_V1
+            href: project1/docs/LatestChanges/PyTorch_V1.3.md
+      - name: PyTorch_V1.4
+        items:
+          - name: PyTorch_V1
+            href: project1/docs/LatestChanges/PyTorch_V1.4.md
+      - name: README
+        items:
+          - name: README
+            href: project1/docs/LatestChanges/README.md
+      - name: SUMMARY
+        items:
+          - name: SUMMARY
+            href: project1/docs/LatestChanges/SUMMARY.md
+  - name: index
+    items:
+      - name: index
+        href: project1/docs/index.md

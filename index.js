@@ -31,14 +31,14 @@ function generateFileTree(arr) {
       let folderObj = current.items.find(child => child.name === folder);
       // 如果不存在，则创建一个新的文件夹对象，并添加到当前文件树对象的items数组中
       if (!folderObj) {
-        folderObj = { name: folder, items: [] };
+        folderObj = { name: folder.replace('.md',''), items: [] };
         current.items.push(folderObj);
       }
       // 将指针指向当前文件夹对象
       current = folderObj;
     });
     // 创建一个新的文件对象，并添加到当前文件夹对象的items数组中
-    const fileObj = { name: path[path.length - 1], href: path.join('/'), type: 'markdown' };
+    const fileObj = { name: path[path.length - 1].split('.')[0], href: path.join('/')};
     current.items.push(fileObj);
   });
   // 返回文件树对象
