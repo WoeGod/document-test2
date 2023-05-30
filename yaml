@@ -1,9 +1,5 @@
 docs:
   - name: project1
-    title: project1-title
-    type: git
-    path: project1/docs
-  - name: PyTorch
     title: PyTorch 中文教程 & 文档
     type: git
     path: project1/docs
