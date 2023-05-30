@@ -31,6 +31,8 @@ function generateFileTree(arr) {
       let folderObj = current.items.find(child => child.name === folder);
       // 如果不存在，则创建一个新的文件夹对象，并添加到当前文件树对象的items数组中
       if (!folderObj) {
+        if (folder.includes('.md')) return
+
         folderObj = { name: folder.replace('.md',''), items: [] };
         current.items.push(folderObj);
       }
